@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  13 FEB 2020 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  13 FEB 2020 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,6 +781,10 @@ chapter 1.
 
 ]
 chapter 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
 [2
 
 ] [3] [4]
@@ -812,26 +816,28 @@ Package logreq Info: Writing requests to 'Facharbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8834 strings out of 493029
- 150653 string characters out of 6136233
- 612815 words of memory out of 5000000
- 12295 multiletter control sequences out of 15000+600000
- 15931 words of font info for 38 fonts, out of 8000000 for 9000
+ 8851 strings out of 493029
+ 150854 string characters out of 6136233
+ 612927 words of memory out of 5000000
+ 12306 multiletter control sequences out of 15000+600000
+ 19138 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,6n,66p,816b,953s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,8n,66p,816b,1354s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sftt1095.pfb>
-Output written on Facharbeit.pdf (11 pages, 187777 bytes).
+m-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sftt1095.pfb>
+Output written on Facharbeit.pdf (11 pages, 223500 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
