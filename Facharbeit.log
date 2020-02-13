@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  13 FEB 2020 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  13 FEB 2020 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,7 +553,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'authortitle.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count135
@@ -647,11 +647,11 @@ File: biblatex_.def
 \c@biburllcpenalty=\count272
 \c@smartand=\count273
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -660,11 +660,11 @@ File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count274
 \c@bbx:relatedtotal=\count275
 ))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
+Package biblatex Info: Trying to load citation style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+File: authortitle.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -807,22 +807,26 @@ chapter 6.
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 75.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [9
+)
 
-]
-(./Facharbeit.aux)
+Package biblatex Warning: Month out of range or not an integer
+(biblatex)                at entry 'Cinnamon' on input line 75.
+
+[9
+
+] (./Facharbeit.aux)
 Package logreq Info: Writing requests to 'Facharbeit.run.xml'.
 \openout1 = `Facharbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8851 strings out of 493029
- 150854 string characters out of 6136233
- 612927 words of memory out of 5000000
- 12306 multiletter control sequences out of 15000+600000
- 19138 words of font info for 44 fonts, out of 8000000 for 9000
+ 8842 strings out of 493029
+ 150610 string characters out of 6136233
+ 610936 words of memory out of 5000000
+ 12296 multiletter control sequences out of 15000+600000
+ 19824 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,8n,66p,816b,1354s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,8n,66p,816b,1346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
@@ -832,12 +836,13 @@ onts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm
 </usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fo
 nts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sftt1095.pfb>
-Output written on Facharbeit.pdf (11 pages, 223500 bytes).
+/usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sftt1095.pfb>
+Output written on Facharbeit.pdf (11 pages, 236754 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

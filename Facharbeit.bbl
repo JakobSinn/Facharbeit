@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist[entry]{nyt/global}
+  \sortlist[entry]{nty/global}
     \entry{Cinnamon}{misc}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
@@ -29,9 +29,6 @@
       \strng{fullhash}{e564d80b30b1654667b5edd30ba5fb8a}
       \field{sortinit}{E}
       \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
-      \field{labelyear}{2020}
-      \field{labelmonth}{Accessed 12 Febuary}
-      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.britannica.com/plant/cinnamon}}
@@ -54,9 +51,6 @@
       \strng{fullhash}{a47e8b50bf363e7f1f07bd6de65352fa}
       \field{sortinit}{F}
       \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
-      \field{labelyear}{2012}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{{The Oxford handbook of food history}}
