@@ -65,7 +65,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldate</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -121,15 +121,15 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortscheme</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>nyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -310,45 +310,8 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">acronyms</bcf:option>
-    <bcf:option datatype="boolean">shorthandinbib</bcf:option>
-    <bcf:option datatype="boolean">shorthandwidth</bcf:option>
-    <bcf:option datatype="boolean">shortjournal</bcf:option>
-    <bcf:option datatype="boolean">terselos</bcf:option>
-    <bcf:option datatype="boolean">xref</bcf:option>
-    <bcf:option datatype="boolean">pagetotal</bcf:option>
-    <bcf:option datatype="boolean">journalnumber</bcf:option>
-    <bcf:option datatype="boolean">bernhard</bcf:option>
-    <bcf:option datatype="boolean">series</bcf:option>
-    <bcf:option datatype="boolean">seriesformat</bcf:option>
-    <bcf:option datatype="boolean">annotation</bcf:option>
-    <bcf:option datatype="boolean">edbyidem</bcf:option>
-    <bcf:option datatype="boolean">editionstring</bcf:option>
-    <bcf:option datatype="boolean">edsuper</bcf:option>
-    <bcf:option datatype="boolean">idembib</bcf:option>
-    <bcf:option datatype="boolean">library</bcf:option>
-    <bcf:option datatype="boolean">nolocation</bcf:option>
-    <bcf:option datatype="boolean">nopublisher</bcf:option>
-    <bcf:option datatype="boolean">oldauthor</bcf:option>
-    <bcf:option datatype="boolean">origfields</bcf:option>
-    <bcf:option datatype="boolean">pseudoauthor</bcf:option>
-    <bcf:option datatype="boolean">origfieldsformat</bcf:option>
-    <bcf:option datatype="boolean">namefont</bcf:option>
-    <bcf:option datatype="boolean">firstnamefont</bcf:option>
-    <bcf:option datatype="boolean">idemfont</bcf:option>
-    <bcf:option datatype="boolean">ibidemfont</bcf:option>
-    <bcf:option datatype="boolean">idembibformat</bcf:option>
-    <bcf:option datatype="boolean">editorstring</bcf:option>
-    <bcf:option datatype="boolean">editorstringfont</bcf:option>
-    <bcf:option datatype="boolean">citedas</bcf:option>
-    <bcf:option datatype="boolean">edstringincitations</bcf:option>
-    <bcf:option datatype="boolean">firstfullname</bcf:option>
-    <bcf:option datatype="boolean">omiteditor</bcf:option>
-    <bcf:option datatype="boolean">shorthandibid</bcf:option>
-    <bcf:option datatype="boolean">citeauthor</bcf:option>
-    <bcf:option datatype="boolean">ibidpage</bcf:option>
-    <bcf:option datatype="boolean">pageref</bcf:option>
-    <bcf:option datatype="boolean">citepages</bcf:option>
+    <bcf:option datatype="boolean">dashed</bcf:option>
+    <bcf:option datatype="boolean">mergedate</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">maxnames</bcf:option>
     <bcf:option datatype="integer">minnames</bcf:option>
@@ -444,12 +407,6 @@
     <bcf:option datatype="boolean">skipbiblist</bcf:option>
     <bcf:option datatype="boolean">skiplab</bcf:option>
     <bcf:option datatype="boolean">dataonly</bcf:option>
-    <bcf:option datatype="boolean">acronym</bcf:option>
-    <bcf:option datatype="boolean">oldbookauthor</bcf:option>
-    <bcf:option datatype="boolean">oldauthor</bcf:option>
-    <bcf:option datatype="boolean">pseudoauthor</bcf:option>
-    <bcf:option datatype="boolean">citedas</bcf:option>
-    <bcf:option datatype="boolean">shorthandibid</bcf:option>
     <bcf:option datatype="string">sortnamekeyscheme</bcf:option>
     <bcf:option datatype="string">presort</bcf:option>
     <bcf:option datatype="integer">maxnames</bcf:option>
@@ -738,12 +695,12 @@
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>
@@ -2096,7 +2053,7 @@
     <bcf:citekey order="1">MST</bcf:citekey>
     <bcf:citekey order="2">Cinnamon</bcf:citekey>
   </bcf:section>
-  <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
+  <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
@@ -2113,12 +2070,12 @@
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>

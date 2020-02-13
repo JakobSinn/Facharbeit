@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  12 FEB 2020 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  13 FEB 2020 21:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,7 +553,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'footnote-dw.dbx' not found.
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count135
@@ -647,21 +647,11 @@ File: biblatex_.def
 \c@biburllcpenalty=\count272
 \c@smartand=\count273
 )
-Package biblatex Info: Trying to load bibliography style 'footnote-dw'...
-Package biblatex Info: ... file 'footnote-dw.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/bbx/footnote-dw.bbx
-File: footnote-dw.bbx 2013/09/22 v1.6a biblatex bibliography style
-Package biblatex Info: Trying to load bibliography style 'authortitle-dw'...
-Package biblatex Info: ... file 'authortitle-dw.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/bbx/authortitle-dw.bbx
-File: authortitle-dw.bbx 2013/09/22 v1.6a biblatex bibliography style
-Package biblatex Info: Trying to load bibliography style 'standard-dw'...
-Package biblatex Info: ... file 'standard-dw.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/bbx/standard-dw.bbx
-File: standard-dw.bbx 2013/09/22 v1.6a biblatex bibliography style
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -669,31 +659,18 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count274
 \c@bbx:relatedtotal=\count275
-)
-\bbx@shorthandwidth=\skip62
-\shorthandsep=\skip63
-)))
-Package biblatex Info: Trying to load citation style 'footnote-dw'...
-Package biblatex Info: ... file 'footnote-dw.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/cbx/footnote-dw.cbx
-File: footnote-dw.cbx 2013/09/22 v1.6a biblatex citation style
-Package biblatex Info: Trying to load citation style 'standard-dw'...
-Package biblatex Info: ... file 'standard-dw.cbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/cbx/standard-dw.cbx
-File: standard-dw.cbx 2013/09/22 v1.6a biblatex citation style
-)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\fullcite'.
-Package biblatex Info: Redefining '\footfullcite'.
+Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\footcites'.
 Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
@@ -702,17 +679,12 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
-Package biblatex Info: Trying to load language 'english' -> 'english-dw'...
-Package biblatex Info: ... file 'english-dw.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-dw/lbx/english-dw.lbx
-File: english-dw.lbx 2013/09/22 v1.6a biblatex localization file
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
-))
+)
 \@quotelevel=\count276
 \@quotereset=\count277
 
@@ -766,7 +738,6 @@ LaTeX Font Info:    ... okay on input line 8.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Redefining '\citeauthor' on input line 8.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -810,18 +781,6 @@ chapter 1.
 
 ]
 chapter 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 31.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cinnamon' on input line 31.
-
 [2
 
 ] [3] [4]
@@ -841,40 +800,38 @@ chapter 6.
 [8
 
 ]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 75.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [9
 
-Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cinnamon' on input line 75.
-
-[9
-
-] (./Facharbeit.aux)
+]
+(./Facharbeit.aux)
 Package logreq Info: Writing requests to 'Facharbeit.run.xml'.
 \openout1 = `Facharbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9304 strings out of 493029
- 161021 string characters out of 6136233
- 643492 words of memory out of 5000000
- 12746 multiletter control sequences out of 15000+600000
- 18775 words of font info for 44 fonts, out of 8000000 for 9000
+ 8834 strings out of 493029
+ 150653 string characters out of 6136233
+ 612815 words of memory out of 5000000
+ 12295 multiletter control sequences out of 15000+600000
+ 15931 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,8n,66p,816b,1127s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,6n,66p,816b,953s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sftt1095.pfb>
-Output written on Facharbeit.pdf (11 pages, 238570 bytes).
+m-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sftt1095.pfb>
+Output written on Facharbeit.pdf (11 pages, 187777 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
