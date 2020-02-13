@@ -1,0 +1,65 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{Cinnamon}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+           family={Encyclopaedia\bibnamedelima Britannica},
+           family_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e564d80b30b1654667b5edd30ba5fb8a}
+      \strng{fullhash}{e564d80b30b1654667b5edd30ba5fb8a}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.britannica.com/plant/cinnamon}}
+      \field{month}{Accessed 12 Febuary}
+      \field{title}{Cinnamon}
+      \field{year}{2020}
+    \endentry
+    \entry{MST}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+           family={Freedman},
+           family_i={F\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \strng{fullhash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Oxford handbook of food history}}
+      \field{isbn}{9780199729937}
+      \field{month}{11}
+      \field{title}{The medieval spice trade}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,39 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Summary}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Thesis Statement}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Methodology}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Trade up to the age of Islam}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Traded goods}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Spice}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Precious stones}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Cultural impact in Europe}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Trade routes}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}To India from the southwest}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}From China}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}India as a hub}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}From India to Europe}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Development under the Romans}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Networks of Trade up to the first European Outposts}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Trading under colonial rule and up to Indian independence}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Effects on India}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusion}{8}
