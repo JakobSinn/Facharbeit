@@ -21,7 +21,7 @@
   \sortlist[entry]{nty/global}
     \entry{Cinnamon}{misc}{}
       \name{author}{1}{}{%
-        {{hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
            family={Encyclopaedia\bibnamedelima Britannica},
            family_i={E\bibinitperiod}}}%
       }
@@ -38,7 +38,7 @@
     \endentry
     \entry{MST}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+        {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
            family={Freedman},
            family_i={F\bibinitperiod},
            given={Paul},
