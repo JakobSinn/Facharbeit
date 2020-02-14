@@ -19,9 +19,32 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global}
+    \entry{RG}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c5acbc796619c418025fe3a440659626}{%
+           family={Cornell\bibnamedelima Collections\bibnamedelima of\bibnamedelima Antiquities},
+           family_i={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ithaca, New York}%
+      }
+      \list{publisher}{1}{%
+        {Cornell~University~Library}%
+      }
+      \strng{namehash}{c5acbc796619c418025fe3a440659626}
+      \strng{fullhash}{c5acbc796619c418025fe3a440659626}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gems}
+      \verb{url}
+      \verb https://antiquities.library.cornell.edu/gems
+      \endverb
+    \endentry
     \entry{Cinnamon}{misc}{}
       \name{author}{1}{}{%
-        {{hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
            family={Encyclopaedia\bibnamedelima Britannica},
            family_i={E\bibinitperiod}}}%
       }
@@ -38,7 +61,7 @@
     \endentry
     \entry{MST}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+        {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
            family={Freedman},
            family_i={F\bibinitperiod},
            given={Paul},
@@ -59,7 +82,79 @@
       \field{title}{The medieval spice trade}
       \field{year}{2012}
     \endentry
+    \entry{Madagascar}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=900198540b883e1b1c9ac4981eed816e}{%
+           family={Lonely\bibnamedelima Planet},
+           family_i={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Franklin, Tennesse}%
+      }
+      \strng{namehash}{900198540b883e1b1c9ac4981eed816e}
+      \strng{fullhash}{900198540b883e1b1c9ac4981eed816e}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of {M}adagascar}
+      \verb{url}
+      \verb https://www.lonelyplanet.com/madagascar/history
+      \endverb
+    \endentry
+    \entry{Rome}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3903836200a4db4d341d5f900e5d48c4}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={James\bibnamedelima Innes},
+           given_i={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press, Clarendon}%
+      }
+      \strng{namehash}{3903836200a4db4d341d5f900e5d48c4}
+      \strng{fullhash}{3903836200a4db4d341d5f900e5d48c4}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
+      \field{year}{1969}
+    \endentry
+    \entry{RIS}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4cf2b5e9cc870509232b9f3193bda8e6}{%
+           prefix={der},
+           prefix_i={d\bibinitperiod},
+           family={Veen},
+           family_i={V\bibinitperiod},
+           given={Marijke\bibnamedelima Van},
+           given_i={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{uniquename=0,hash=3f5c2d304a6a686e5c45c6030cd58685}{%
+           family={Morales},
+           family_i={M\bibinitperiod},
+           given={Jacob},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{537179ba613fe0247bcb9183ba5d41e6}
+      \strng{fullhash}{537179ba613fe0247bcb9183ba5d41e6}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ethnopharmacology}
+      \field{title}{The Roman and Islamic spice trade: New archaeological evidence}
+      \field{volume}{167}
+      \field{year}{2015}
+      \field{pages}{54\bibrangedash 63}
+      \range{pages}{10}
+    \endentry
   \endsortlist
+  \missing{wiki:\IeC {\'O}c_Eo}
 \endrefsection
 \endinput
 
