@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  15 FEB 2020 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  16 FEB 2020 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,8 +6,9 @@ entering extended mode
 (./Facharbeit.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrreprt.cls
-Document Class: scrreprt 2015/10/03 v3.19a KOMA-Script document class (report)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2015/10/03 v3.19a KOMA-Script document class (article)
+
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent 
 basics and keyval usage)
@@ -31,23 +32,21 @@ Package: tocbasic 2015/10/03 v3.19a KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 125.
+(tocbasic)             for `toc' on input line 123.
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 126.
+(tocbasic)             for `lof' on input line 124.
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 127.
-Package tocbasic Info: defining new hook before heading of `' on input line 158
-8.
-Package scrreprt Info: You've used standard option `11pt'.
-(scrreprt)             This is correct!
-(scrreprt)             Internally I'm using `fontsize=11pt'.
-(scrreprt)             If you'd like to set the option with \KOMAoptions,
-(scrreprt)             you'd have to use `fontsize=11pt' there
-(scrreprt)             instead of `11pt', too.
-Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input l
-ine 2248.
+(tocbasic)             for `lot' on input line 125.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2033.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
 File: scrsize11pt.clo 2015/10/03 v3.19a KOMA-Script font size class option (11p
@@ -91,18 +90,17 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 1509.
 )
 \c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-LaTeX Info: Redefining \textsubscript on input line 4652.
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+LaTeX Info: Redefining \textsubscript on input line 3906.
 \abovecaptionskip=\skip46
 \belowcaptionskip=\skip47
 \c@pti@nb@sid@b@x=\box26
-\c@figure=\count87
-\c@table=\count88
+\c@figure=\count86
+\c@table=\count87
 \bibindent=\dimen102
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
@@ -435,9 +433,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -457,7 +455,7 @@ B)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count92
+\etb@tempcnta=\count91
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
@@ -485,7 +483,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count93
+\lrq@indent=\count92
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -497,44 +495,44 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count94
-\c@listtotal=\count95
-\c@listcount=\count96
-\c@liststart=\count97
-\c@liststop=\count98
-\c@citecount=\count99
-\c@citetotal=\count100
-\c@multicitecount=\count101
-\c@multicitetotal=\count102
-\c@instcount=\count103
-\c@maxnames=\count104
-\c@minnames=\count105
-\c@maxitems=\count106
-\c@minitems=\count107
-\c@citecounter=\count108
-\c@savedcitecounter=\count109
-\c@uniquelist=\count110
-\c@uniquename=\count111
-\c@refsection=\count112
-\c@refsegment=\count113
-\c@maxextratitle=\count114
-\c@maxextratitleyear=\count115
-\c@maxextrayear=\count116
-\c@maxextraalpha=\count117
-\c@abbrvpenalty=\count118
-\c@highnamepenalty=\count119
-\c@lownamepenalty=\count120
-\c@maxparens=\count121
-\c@parenlevel=\count122
-\blx@tempcnta=\count123
-\blx@tempcntb=\count124
-\blx@tempcntc=\count125
-\blx@maxsection=\count126
-\blx@maxsegment@0=\count127
-\blx@notetype=\count128
-\blx@parenlevel@text=\count129
-\blx@parenlevel@foot=\count130
-\blx@sectionciteorder@0=\count131
+\c@tabx@nest=\count93
+\c@listtotal=\count94
+\c@listcount=\count95
+\c@liststart=\count96
+\c@liststop=\count97
+\c@citecount=\count98
+\c@citetotal=\count99
+\c@multicitecount=\count100
+\c@multicitetotal=\count101
+\c@instcount=\count102
+\c@maxnames=\count103
+\c@minnames=\count104
+\c@maxitems=\count105
+\c@minitems=\count106
+\c@citecounter=\count107
+\c@savedcitecounter=\count108
+\c@uniquelist=\count109
+\c@uniquename=\count110
+\c@refsection=\count111
+\c@refsegment=\count112
+\c@maxextratitle=\count113
+\c@maxextratitleyear=\count114
+\c@maxextrayear=\count115
+\c@maxextraalpha=\count116
+\c@abbrvpenalty=\count117
+\c@highnamepenalty=\count118
+\c@lownamepenalty=\count119
+\c@maxparens=\count120
+\c@parenlevel=\count121
+\blx@tempcnta=\count122
+\blx@tempcntb=\count123
+\blx@tempcntc=\count124
+\blx@maxsection=\count125
+\blx@maxsegment@0=\count126
+\blx@notetype=\count127
+\blx@parenlevel@text=\count128
+\blx@parenlevel@foot=\count129
+\blx@sectionciteorder@0=\count130
 \labelnumberwidth=\skip48
 \labelalphawidth=\skip49
 \biblabelsep=\skip50
@@ -545,83 +543,83 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip55
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count132
-\c@maxcomprange=\count133
-\c@mincompwidth=\count134
+\c@mincomprange=\count131
+\c@maxcomprange=\count132
+\c@mincompwidth=\count133
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authortitle.dbx' not found.
+Package biblatex Info: ... file 'authortitle-icomp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count135
-\c@savedafterword=\count136
-\c@annotator=\count137
-\c@savedannotator=\count138
-\c@author=\count139
-\c@savedauthor=\count140
-\c@bookauthor=\count141
-\c@savedbookauthor=\count142
-\c@commentator=\count143
-\c@savedcommentator=\count144
-\c@editor=\count145
-\c@savededitor=\count146
-\c@editora=\count147
-\c@savededitora=\count148
-\c@editorb=\count149
-\c@savededitorb=\count150
-\c@editorc=\count151
-\c@savededitorc=\count152
-\c@foreword=\count153
-\c@savedforeword=\count154
-\c@holder=\count155
-\c@savedholder=\count156
-\c@introduction=\count157
-\c@savedintroduction=\count158
-\c@namea=\count159
-\c@savednamea=\count160
-\c@nameb=\count161
-\c@savednameb=\count162
-\c@namec=\count163
-\c@savednamec=\count164
-\c@translator=\count165
-\c@savedtranslator=\count166
-\c@shortauthor=\count167
-\c@savedshortauthor=\count168
-\c@shorteditor=\count169
-\c@savedshorteditor=\count170
-\c@labelname=\count171
-\c@savedlabelname=\count172
-\c@institution=\count173
-\c@savedinstitution=\count174
-\c@lista=\count175
-\c@savedlista=\count176
-\c@listb=\count177
-\c@savedlistb=\count178
-\c@listc=\count179
-\c@savedlistc=\count180
-\c@listd=\count181
-\c@savedlistd=\count182
-\c@liste=\count183
-\c@savedliste=\count184
-\c@listf=\count185
-\c@savedlistf=\count186
-\c@location=\count187
-\c@savedlocation=\count188
-\c@organization=\count189
-\c@savedorganization=\count190
-\c@origlocation=\count191
-\c@savedoriglocation=\count192
-\c@origpublisher=\count193
-\c@savedorigpublisher=\count194
-\c@publisher=\count195
-\c@savedpublisher=\count196
-\c@language=\count197
-\c@savedlanguage=\count198
-\c@pageref=\count199
-\c@savedpageref=\count266
+\c@afterword=\count134
+\c@savedafterword=\count135
+\c@annotator=\count136
+\c@savedannotator=\count137
+\c@author=\count138
+\c@savedauthor=\count139
+\c@bookauthor=\count140
+\c@savedbookauthor=\count141
+\c@commentator=\count142
+\c@savedcommentator=\count143
+\c@editor=\count144
+\c@savededitor=\count145
+\c@editora=\count146
+\c@savededitora=\count147
+\c@editorb=\count148
+\c@savededitorb=\count149
+\c@editorc=\count150
+\c@savededitorc=\count151
+\c@foreword=\count152
+\c@savedforeword=\count153
+\c@holder=\count154
+\c@savedholder=\count155
+\c@introduction=\count156
+\c@savedintroduction=\count157
+\c@namea=\count158
+\c@savednamea=\count159
+\c@nameb=\count160
+\c@savednameb=\count161
+\c@namec=\count162
+\c@savednamec=\count163
+\c@translator=\count164
+\c@savedtranslator=\count165
+\c@shortauthor=\count166
+\c@savedshortauthor=\count167
+\c@shorteditor=\count168
+\c@savedshorteditor=\count169
+\c@labelname=\count170
+\c@savedlabelname=\count171
+\c@institution=\count172
+\c@savedinstitution=\count173
+\c@lista=\count174
+\c@savedlista=\count175
+\c@listb=\count176
+\c@savedlistb=\count177
+\c@listc=\count178
+\c@savedlistc=\count179
+\c@listd=\count180
+\c@savedlistd=\count181
+\c@liste=\count182
+\c@savedliste=\count183
+\c@listf=\count184
+\c@savedlistf=\count185
+\c@location=\count186
+\c@savedlocation=\count187
+\c@organization=\count188
+\c@savedorganization=\count189
+\c@origlocation=\count190
+\c@savedoriglocation=\count191
+\c@origpublisher=\count192
+\c@savedorigpublisher=\count193
+\c@publisher=\count194
+\c@savedpublisher=\count195
+\c@language=\count196
+\c@savedlanguage=\count197
+\c@pageref=\count198
+\c@savedpageref=\count199
 \shorthandwidth=\skip56
 \shortjournalwidth=\skip57
 \shortserieswidth=\skip58
@@ -639,14 +637,21 @@ Package biblatex Info: ... file 'biblatex_.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
 File: biblatex_.def 
-\c@textcitecount=\count267
-\c@textcitetotal=\count268
-\c@textcitemaxnames=\count269
-\c@biburlnumpenalty=\count270
-\c@biburlucpenalty=\count271
-\c@biburllcpenalty=\count272
-\c@smartand=\count273
+\c@textcitecount=\count266
+\c@textcitetotal=\count267
+\c@textcitemaxnames=\count268
+\c@biburlnumpenalty=\count269
+\c@biburlucpenalty=\count270
+\c@biburllcpenalty=\count271
+\c@smartand=\count272
 )
+Package biblatex Info: Trying to load bibliography style 'authortitle-icomp'...
+
+Package biblatex Info: ... file 'authortitle-icomp.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authortitle-icomp.bbx
+File: authortitle-icomp.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/
+AB)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
@@ -657,14 +662,14 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count274
-\c@bbx:relatedtotal=\count275
-))
-Package biblatex Info: Trying to load citation style 'authortitle'...
-Package biblatex Info: ... file 'authortitle.cbx' found.
+\c@bbx:relatedcount=\count273
+\c@bbx:relatedtotal=\count274
+)))
+Package biblatex Info: Trying to load citation style 'authortitle-icomp'...
+Package biblatex Info: ... file 'authortitle-icomp.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
-File: authortitle.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authortitle-icomp.cbx
+File: authortitle-icomp.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -672,6 +677,11 @@ Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -685,8 +695,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count276
-\@quotereset=\count277
+\@quotelevel=\count275
+\@quotereset=\count276
 
 (./Facharbeit.aux)
 \openout1 = `Facharbeit.aux'.
@@ -745,21 +755,9 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Facharbeit.bbl' found.
-(./Facharbeit.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                wiki:\IeC {\'O}c_Eo
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./Facharbeit.bbl)
 Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 14.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -767,8 +765,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Facharbeit.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./Facharbeit.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -782,80 +780,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 ]
-chapter 1.
-[1
-
-]
-chapter 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 25.
+(Font)              <9> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
-[2
+(Font)              <5> on input line 28.
+ [1
 
-] [3] [4]
-chapter 3.
-[5
+] [2] [3]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 83.
 
-]
-chapter 4.
-[6
-
-]
-chapter 5.
-[7
-
-]
-chapter 6.
-[8
-
-]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 70.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Cinnamon' on input line 70.
+(biblatex)                at entry 'Cinnamon' on input line 83.
 
 
-Overfull \hbox (22.1493pt too wide) in paragraph at lines 71--71
+Overfull \hbox (6.25659pt too wide) in paragraph at lines 84--84
+[][]\T1/cmr/m/n/10.95 Gill, N. S. ``Parthi-ans and the silk trade''. In: \T1/cm
+r/m/it/10.95 ThoughtCo. \T1/cmr/m/n/10.95 (2020). $\T1/cmtt/m/n/10.95 https : /
+ / www . thoughtco .
+ []
+
+[4]
+Overfull \hbox (22.1493pt too wide) in paragraph at lines 84--84
 [][]\T1/cmr/m/n/10.95 Lonely Planet. \T1/cmr/m/it/10.95 His-tory of Mada-gas-ca
 r\T1/cmr/m/n/10.95 . Franklin, Ten-nesse. \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.
 95 : $\T1/cmtt/m/n/10.95 https : / / www . lonelyplanet .
  []
 
-[9
-
-] (./Facharbeit.aux)
+[5] (./Facharbeit.aux)
 Package logreq Info: Writing requests to 'Facharbeit.run.xml'.
 \openout1 = `Facharbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8867 strings out of 493029
- 150982 string characters out of 6136233
- 612035 words of memory out of 5000000
- 12320 multiletter control sequences out of 15000+600000
- 20600 words of font info for 46 fonts, out of 8000000 for 9000
+ 8770 strings out of 493029
+ 149088 string characters out of 6136233
+ 606874 words of memory out of 5000000
+ 12227 multiletter control sequences out of 15000+600000
+ 17513 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,8n,66p,816b,1350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,8n,63p,816b,1395s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
-fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1095.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Facharbeit.pdf (11 pages, 297721 bytes).
+fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfcc1095.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sftt1095.pfb>
+Output written on Facharbeit.pdf (7 pages, 285782 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

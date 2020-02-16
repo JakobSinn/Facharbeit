@@ -311,6 +311,7 @@
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">dashed</bcf:option>
+    <bcf:option datatype="boolean">ibidpage</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">maxnames</bcf:option>
     <bcf:option datatype="integer">minnames</bcf:option>
@@ -2056,12 +2057,20 @@
     <bcf:citekey order="5">Rome</bcf:citekey>
     <bcf:citekey order="6">RG</bcf:citekey>
     <bcf:citekey order="7">Rome</bcf:citekey>
-    <bcf:citekey order="8">Madagascar</bcf:citekey>
-    <bcf:citekey order="9">Rome</bcf:citekey>
-    <bcf:citekey order="10">Rome</bcf:citekey>
+    <bcf:citekey order="8">Rome</bcf:citekey>
+    <bcf:citekey order="9">Indonesia</bcf:citekey>
+    <bcf:citekey order="10">Madagascar</bcf:citekey>
     <bcf:citekey order="11">Rome</bcf:citekey>
     <bcf:citekey order="12">Rome</bcf:citekey>
-    <bcf:citekey order="13">wiki:\IeC {\&apos;O}c_Eo</bcf:citekey>
+    <bcf:citekey order="13">SilkRome</bcf:citekey>
+    <bcf:citekey order="14">Rome</bcf:citekey>
+    <bcf:citekey order="15">Rome</bcf:citekey>
+    <bcf:citekey order="16">curtin_1984</bcf:citekey>
+    <bcf:citekey order="17">OcEo</bcf:citekey>
+    <bcf:citekey order="18">curtin_1984</bcf:citekey>
+    <bcf:citekey order="19">SilkRome</bcf:citekey>
+    <bcf:citekey order="20">SilkRome</bcf:citekey>
+    <bcf:citekey order="20">Rome</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>

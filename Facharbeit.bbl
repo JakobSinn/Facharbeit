@@ -42,6 +42,30 @@
       \verb https://antiquities.library.cornell.edu/gems
       \endverb
     \endentry
+    \entry{curtin_1984}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7421df54599298903afa25236884fcf6}{%
+           family={Curtin},
+           family_i={C\bibinitperiod},
+           given={Philip\bibnamedelima D.},
+           given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7421df54599298903afa25236884fcf6}
+      \strng{fullhash}{7421df54599298903afa25236884fcf6}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Studies in Comparative World History}
+      \field{title}{Cross-Cultural Trade in World History}
+      \field{year}{1984}
+      \verb{doi}
+      \verb 10.1017/CBO9780511661198
+      \endverb
+    \endentry
     \entry{Cinnamon}{misc}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
@@ -81,6 +105,25 @@
       \field{month}{11}
       \field{title}{The medieval spice trade}
       \field{year}{2012}
+    \endentry
+    \entry{SilkRome}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=599b1d482fd72d718c5cb422c96e23e1}{%
+           family={Gill},
+           family_i={G\bibinitperiod},
+           given={N.\bibnamedelimi S.},
+           given_i={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{599b1d482fd72d718c5cb422c96e23e1}
+      \strng{fullhash}{599b1d482fd72d718c5cb422c96e23e1}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ThoughtCo.}
+      \field{note}{\url{https://www.thoughtco.com/parthians-intermediaries-china-rome-silk-trade-117682}}
+      \field{title}{Parthians and the silk trade}
+      \field{year}{2020}
     \endentry
     \entry{Madagascar}{misc}{}
       \name{author}{1}{}{%
@@ -125,6 +168,25 @@
       \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
       \field{year}{1969}
     \endentry
+    \entry{Indonesia}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a85991f6d13a319b9b0c712dc5a75c74}{%
+           family={Partogi},
+           family_i={P\bibinitperiod},
+           given={Sebastian},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85991f6d13a319b9b0c712dc5a75c74}
+      \strng{fullhash}{a85991f6d13a319b9b0c712dc5a75c74}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Jakarta Post}
+      \field{note}{\url{https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html}}
+      \field{title}{SPICE TRAILS: Indonesian spice trade, now and then}
+      \field{year}{2017}
+    \endentry
     \entry{RIS}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=4cf2b5e9cc870509232b9f3193bda8e6}{%
@@ -153,8 +215,24 @@
       \field{pages}{54\bibrangedash 63}
       \range{pages}{10}
     \endentry
+    \entry{OcEo}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           family_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://en.wikipedia.org/w/index.php?title=\%C3\%93c\%20Eo&oldid=931898072}}
+      \field{note}{[Accessed 14~February~2020]}
+      \field{title}{{Óc Eo} --- {W}ikipedia{,} The Free Encyclopedia}
+      \field{year}{2020}
+    \endentry
   \endsortlist
-  \missing{wiki:\IeC {\'O}c_Eo}
 \endrefsection
 \endinput
 
