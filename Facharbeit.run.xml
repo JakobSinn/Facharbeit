@@ -53,10 +53,10 @@
       <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex_.def</file>
-      <file>authortitle-icomp.bbx</file>
+      <file>authortitle-ibid.bbx</file>
       <file>authortitle.bbx</file>
       <file>standard.bbx</file>
-      <file>authortitle-icomp.cbx</file>
+      <file>authortitle-ibid.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
