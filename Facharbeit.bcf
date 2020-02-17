@@ -2072,7 +2072,15 @@
     <bcf:citekey order="20">SilkRome</bcf:citekey>
     <bcf:citekey order="21">SilkRome</bcf:citekey>
     <bcf:citekey order="21">Rome</bcf:citekey>
-    <bcf:citekey order="22">Abbasid</bcf:citekey>
+    <bcf:citekey order="22">Umayyad</bcf:citekey>
+    <bcf:citekey order="23">Umayyad</bcf:citekey>
+    <bcf:citekey order="24">Abbasid</bcf:citekey>
+    <bcf:citekey order="25">Umayyad</bcf:citekey>
+    <bcf:citekey order="26">Muhammad</bcf:citekey>
+    <bcf:citekey order="27">Lapidus</bcf:citekey>
+    <bcf:citekey order="28">SilkRoadIslam</bcf:citekey>
+    <bcf:citekey order="29">India</bcf:citekey>
+    <bcf:citekey order="30">Delhi</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>

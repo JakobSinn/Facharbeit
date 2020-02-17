@@ -100,6 +100,90 @@
       \field{title}{Cinnamon}
       \field{year}{2020}
     \endentry
+    \entry{Delhi}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+           family={Encyclopaedia\bibnamedelima Britannica},
+           family_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e564d80b30b1654667b5edd30ba5fb8a}
+      \strng{fullhash}{e564d80b30b1654667b5edd30ba5fb8a}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.britannica.com/place/Delhi-sultanate}}
+      \field{note}{Accessed 17 February}
+      \field{title}{Delhi Sultanate}
+      \field{year}{2020}
+    \endentry
+    \entry{India}{misc}{}
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+           family={Encyclopaedia\bibnamedelima Britannica},
+           family_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c4ccb5eee7f94301de15e7240eb37cf}
+      \strng{fullhash}{9c4ccb5eee7f94301de15e7240eb37cf}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.britannica.com/place/India}}
+      \field{note}{Accessed 17 February}
+      \field{title}{India}
+      \field{year}{2020}
+    \endentry
+    \entry{Umayyad}{misc}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+           family={Encyclopaedia\bibnamedelima Britannica},
+           family_i={E\bibinitperiod}}}%
+        {{uniquename=0,hash=c64a75b00269fd8971d9ccf871075913}{%
+           family={Afsaruddin},
+           family_i={A\bibinitperiod},
+           given={Asma},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0833ef2fd9971c19dc2d0d95ffcff6f2}
+      \strng{fullhash}{0833ef2fd9971c19dc2d0d95ffcff6f2}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history}}
+      \field{note}{Accessed 17 February}
+      \field{title}{Ummayad Dynasty}
+      \field{year}{2020}
+    \endentry
+    \entry{Muhammad}{misc}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=e564d80b30b1654667b5edd30ba5fb8a}{%
+           family={Encyclopaedia\bibnamedelima Britannica},
+           family_i={E\bibinitperiod}}}%
+        {{uniquename=0,hash=24fe2213f712c603584716e3b5087b4c}{%
+           family={Sinai},
+           family_i={S\bibinitperiod},
+           given={Nicolai},
+           given_i={N\bibinitperiod}}}%
+        {{uniquename=0,hash=0daf48524779f1bd54716e5d01f5d4eb}{%
+           family={Watt},
+           family_i={W\bibinitperiod},
+           given={William\bibnamedelima Montgomery},
+           given_i={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{567dd072843f419380453e0ddb41d5fd}
+      \strng{fullhash}{567dd072843f419380453e0ddb41d5fd}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.britannica.com/biography/Muhammad}}
+      \field{note}{Accessed 17 February}
+      \field{title}{Muhammad}
+      \field{year}{2020}
+    \endentry
     \entry{MST}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
@@ -141,6 +225,26 @@
       \field{note}{\url{https://www.thoughtco.com/parthians-intermediaries-china-rome-silk-trade-117682}}
       \field{title}{Parthians and the silk trade}
       \field{year}{2020}
+    \endentry
+    \entry{Lapidus}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=071eb35d21301dca5f5fdaae59b7caa9}{%
+           family={Lapidus},
+           family_i={L\bibinitperiod},
+           given={Ira\bibnamedelima M},
+           given_i={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{071eb35d21301dca5f5fdaae59b7caa9}
+      \strng{fullhash}{071eb35d21301dca5f5fdaae59b7caa9}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A history of Islamic societies}
+      \field{year}{2002}
     \endentry
     \entry{Madagascar}{misc}{}
       \name{author}{1}{}{%
@@ -203,6 +307,29 @@
       \field{note}{\url{https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html}}
       \field{title}{SPICE TRAILS: Indonesian spice trade, now and then}
       \field{year}{2017}
+    \endentry
+    \entry{SilkRoadIslam}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6c6496de46433a6ce58164944afac6ae}{%
+           family={The\bibnamedelima Division\bibnamedelima of\bibnamedelima Asia\bibnamedelima Collections\bibnamedelima at\bibnamedelima Kroch\bibnamedelima Library},
+           family_i={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Cornell University}%
+      }
+      \strng{namehash}{6c6496de46433a6ce58164944afac6ae}
+      \strng{fullhash}{6c6496de46433a6ce58164944afac6ae}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Spread of Islam along the Silk Road}
+      \field{title}{The Silk Road and Islam Spread}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://guides.library.cornell.edu/IslamAsiaExhibit/SilkRoadIslam
+      \endverb
+      \warn{\item Datamodel: Entry 'SilkRoadIslam' (Facharbeit.bib): Invalid format '2020-2-17' of date field 'urldate' - ignoring}
     \endentry
     \entry{RIS}{article}{}
       \name{author}{2}{}{%
