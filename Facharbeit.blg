@@ -1,13 +1,15 @@
 [1] Config.pm:340> INFO - This is Biber 2.4
-[1] Config.pm:343> INFO - Logfile is 'Facharbeit.blg'
-[151] biber:287> INFO - === Mi Feb 19, 2020, 21:46:18
-[453] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
-[939] Biber.pm:742> INFO - Found 20 citekeys in bib section 0
-[958] Biber.pm:3151> INFO - Processing section 0
-[1062] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
-[1125] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[1181] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
-[1187] Utils.pm:147> WARN - Entry SilkRoadIslam does not parse correctly
-[1733] Utils.pm:163> ERROR - BibTeX subsystem: /tmp/aax89yLvja/Facharbeit.bib_10312.utf8, line 110, syntax error: found ",", expected one of: name (entry type, key, field, or macro name) or end of entry ("}" or ")")
-[1734] Biber.pm:109> INFO - WARNINGS: 1
-[1734] Biber.pm:113> INFO - ERRORS: 1
+[2] Config.pm:343> INFO - Logfile is 'Facharbeit.blg'
+[170] biber:287> INFO - === Mi Feb 19, 2020, 23:56:28
+[475] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
+[983] Biber.pm:742> INFO - Found 20 citekeys in bib section 0
+[1002] Biber.pm:3151> INFO - Processing section 0
+[1117] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
+[1197] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1257] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
+[2756] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2757] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2757] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[2757] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[2938] bbl.pm:519> INFO - Writing 'Facharbeit.bbl' with encoding 'UTF-8'
+[3153] bbl.pm:615> INFO - Output to Facharbeit.bbl

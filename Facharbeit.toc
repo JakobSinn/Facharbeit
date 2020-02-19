@@ -54,8 +54,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.1}Venice}{5}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Trading under colonial rule and up to Indian independence}{5}{section.4}
+\contentsline {section}{\numberline {4}From 1498 to 1857}{5}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Effects on India}{5}{section.5}
+\contentsline {section}{\numberline {5}Analysis}{5}{section.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6}Conclusion}{5}{section.6}

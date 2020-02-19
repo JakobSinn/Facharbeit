@@ -1,0 +1,392 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{Abbasid}{inreference}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Abbāsid caliphate}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/topic/Abbasid-caliphate
+      \endverb
+    \endentry
+    \entry{Umayyad}{inreference}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c64a75b00269fd8971d9ccf871075913}{%
+           family={Afsaruddin},
+           family_i={A\bibinitperiod},
+           given={Asma},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c64a75b00269fd8971d9ccf871075913}
+      \strng{fullhash}{c64a75b00269fd8971d9ccf871075913}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Ummayad Dynasty}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history
+      \endverb
+    \endentry
+    \entry{UN}{online}{}
+      \list{organization}{1}{%
+        {UNESCO}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labeltitlesource}{title}
+      \field{title}{Alexandria}
+      \field{titleaddon}{Silk Roads}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://en.unesco.org/silkroad/content/alexandria
+      \endverb
+    \endentry
+    \entry{Cinnamon}{inreference}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Cinnamon}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/plant/cinnamon
+      \endverb
+    \endentry
+    \entry{curtin_1984}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7421df54599298903afa25236884fcf6}{%
+           family={Curtin},
+           family_i={C\bibinitperiod},
+           given={Philip\bibnamedelima D.},
+           given_i={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7421df54599298903afa25236884fcf6}
+      \strng{fullhash}{7421df54599298903afa25236884fcf6}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Studies in Comparative World History}
+      \field{title}{Cross-Cultural Trade in World History}
+      \field{year}{1984}
+      \verb{doi}
+      \verb 10.1017/CBO9780511661198
+      \endverb
+    \endentry
+    \entry{Delhi}{inreference}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Delhi Sultanate}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/place/Delhi-sultanate
+      \endverb
+    \endentry
+    \entry{Yale}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+           family={Freedman},
+           family_i={F\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Yale University}%
+      }
+      \strng{namehash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \strng{fullhash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spices: How the Search for Flavors Influenced Our World}
+      \field{year}{2003}
+      \verb{url}
+      \verb https://yaleglobal.yale.edu/content/spices-how-search-flavors-influenced-our-world
+      \endverb
+    \endentry
+    \entry{MST}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+           family={Freedman},
+           family_i={F\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \strng{fullhash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Oxford handbook of food history}}
+      \field{isbn}{9780199729937}
+      \field{month}{11}
+      \field{title}{The medieval spice trade}
+      \field{year}{2012}
+    \endentry
+    \entry{RG}{misc}{}
+      \list{location}{1}{%
+        {Ithaca, New York}%
+      }
+      \list{organization}{1}{%
+        {Cornell~University, Antiquities Library}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Gems}
+      \verb{url}
+      \verb https://antiquities.library.cornell.edu/gems
+      \endverb
+    \endentry
+    \entry{SilkRome}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=599b1d482fd72d718c5cb422c96e23e1}{%
+           family={Gill},
+           family_i={G\bibinitperiod},
+           given={N.\bibnamedelimi S.},
+           given_i={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{599b1d482fd72d718c5cb422c96e23e1}
+      \strng{fullhash}{599b1d482fd72d718c5cb422c96e23e1}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ThoughtCo.}
+      \field{title}{Parthians and the silk trade}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.thoughtco.com/parthians-intermediaries-china-rome-silk-trade-117682
+      \endverb
+    \endentry
+    \entry{Madagascar}{misc}{}
+      \list{location}{1}{%
+        {Franklin, Tennesse}%
+      }
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labeltitlesource}{title}
+      \field{title}{History of {M}adagascar}
+      \verb{url}
+      \verb https://www.lonelyplanet.com/madagascar/history
+      \endverb
+    \endentry
+    \entry{Lapidus}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=071eb35d21301dca5f5fdaae59b7caa9}{%
+           family={Lapidus},
+           family_i={L\bibinitperiod},
+           given={Ira\bibnamedelima M},
+           given_i={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{071eb35d21301dca5f5fdaae59b7caa9}
+      \strng{fullhash}{071eb35d21301dca5f5fdaae59b7caa9}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A history of Islamic societies}
+      \field{year}{2002}
+    \endentry
+    \entry{Rome}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3903836200a4db4d341d5f900e5d48c4}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={James\bibnamedelima Innes},
+           given_i={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press at Clarendon}%
+      }
+      \strng{namehash}{3903836200a4db4d341d5f900e5d48c4}
+      \strng{fullhash}{3903836200a4db4d341d5f900e5d48c4}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
+      \field{year}{1969}
+    \endentry
+    \entry{OcEo}{incollection}{}
+      \field{sortinit}{Ó}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Wikipedia}
+      \field{title}{Óc Eo}
+      \field{year}{2020}
+      \verb{url}
+      \verb http://en.wikipedia.org/w/index.php?title=%5C%C3%5C%93c%5C%20Eo&oldid=931898072
+      \endverb
+    \endentry
+    \entry{Indonesia}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a85991f6d13a319b9b0c712dc5a75c74}{%
+           family={Partogi},
+           family_i={P\bibinitperiod},
+           given={Sebastian},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85991f6d13a319b9b0c712dc5a75c74}
+      \strng{fullhash}{a85991f6d13a319b9b0c712dc5a75c74}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Jakarta Post}
+      \field{title}{SPICE TRAILS: Indonesian spice trade, now and then}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html
+      \endverb
+    \endentry
+    \entry{India}{inreference}{}
+      \true{moreauthor}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=37943201e686ad64b6195a0e02d5ac98}{%
+           family={Schwartzberg},
+           family_i={S\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=09c6e9d70915f0d7f0395cc4954f8870}{%
+           family={Srivastava},
+           family_i={S\bibinitperiod},
+           given={A.L.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf434aa077b1d71755f4a5a084dcb43d}
+      \strng{fullhash}{965c2ee864847ddb3d8eaa5520d52e44}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{India}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/place/India
+      \endverb
+    \endentry
+    \entry{Muhammad}{inreference}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=24fe2213f712c603584716e3b5087b4c}{%
+           family={Sinai},
+           family_i={S\bibinitperiod},
+           given={Nicolai},
+           given_i={N\bibinitperiod}}}%
+        {{uniquename=0,hash=0daf48524779f1bd54716e5d01f5d4eb}{%
+           family={Watt},
+           family_i={W\bibinitperiod},
+           given={William\bibnamedelima Montgomery},
+           given_i={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{095f02492547ec3e5ecc4d1b77958936}
+      \strng{fullhash}{095f02492547ec3e5ecc4d1b77958936}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Muhammad}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/biography/Muhammad
+      \endverb
+    \endentry
+    \entry{SpiceTrade}{inreference}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Spice trade}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/topic/spice-trade
+      \endverb
+    \endentry
+    \entry{SilkRoadIslam}{online}{}
+      \list{organization}{1}{%
+        {The Division of Asia Collections at Kroch Library, Cornell University}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labeltitlesource}{title}
+      \field{title}{The Silk Road and Islam Spread}
+      \field{titleaddon}{Exhibition: Islam in Asia}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://guides.library.cornell.edu/IslamAsiaExhibit/SilkRoadIslam
+      \endverb
+    \endentry
+    \entry{RIS}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4cf2b5e9cc870509232b9f3193bda8e6}{%
+           prefix={der},
+           prefix_i={d\bibinitperiod},
+           family={Veen},
+           family_i={V\bibinitperiod},
+           given={Marijke\bibnamedelima Van},
+           given_i={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{uniquename=0,hash=3f5c2d304a6a686e5c45c6030cd58685}{%
+           family={Morales},
+           family_i={M\bibinitperiod},
+           given={Jacob},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{537179ba613fe0247bcb9183ba5d41e6}
+      \strng{fullhash}{537179ba613fe0247bcb9183ba5d41e6}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ethnopharmacology}
+      \field{title}{The Roman and Islamic spice trade: New archaeological evidence}
+      \field{volume}{167}
+      \field{year}{2015}
+      \field{pages}{54\bibrangedash 63}
+      \range{pages}{10}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
