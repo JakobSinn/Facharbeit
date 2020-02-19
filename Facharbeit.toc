@@ -42,12 +42,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}India}{5}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Indian culture and political structure after the Gupta empire and before the Delhi sultanate}{5}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.2.1}Indian culture and political structure after the Gupta empire and before the Delhi sultanate}{5}{subsubsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Cultural transfers to India from the West}{5}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Cultural transfers to India from the West}{5}{subsubsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Trading under colonial rule and up to Indian independence}{5}{section.4}
+\contentsline {subsubsection}{\numberline {3.2.3}Spice production in India}{5}{subsubsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Effects on India}{5}{section.5}
+\contentsline {subsection}{\numberline {3.3}Europe}{5}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Conclusion}{5}{section.6}
+\contentsline {section}{\numberline {4}Trading under colonial rule and up to Indian independence}{6}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Effects on India}{6}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Conclusion}{6}{section.6}

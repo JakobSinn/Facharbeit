@@ -97,6 +97,29 @@
       \verb https://www.britannica.com/place/Delhi-sultanate
       \endverb
     \endentry
+    \entry{Yale}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
+           family={Freedman},
+           family_i={F\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Yale University}%
+      }
+      \strng{namehash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \strng{fullhash}{a47e8b50bf363e7f1f07bd6de65352fa}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spices: How the Search for Flavors Influenced Our World}
+      \field{year}{2003}
+      \verb{url}
+      \verb https://yaleglobal.yale.edu/content/spices-how-search-flavors-influenced-our-world
+      \endverb
+    \endentry
     \entry{MST}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a47e8b50bf363e7f1f07bd6de65352fa}{%
@@ -290,6 +313,17 @@
       \field{year}{2020}
       \verb{url}
       \verb https://www.britannica.com/biography/Muhammad
+      \endverb
+    \endentry
+    \entry{SpiceTrade}{inreference}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Spice trade}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/topic/spice-trade
       \endverb
     \endentry
     \entry{SilkRoadIslam}{online}{}
