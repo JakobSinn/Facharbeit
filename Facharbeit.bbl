@@ -259,6 +259,70 @@
       \verb http://en.wikipedia.org/w/index.php?title=%5C%C3%5C%93c%5C%20Eo&oldid=931898072
       \endverb
     \endentry
+    \entry{VdG}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=03aeeff6f6f4ccc44965773b8894db01}{%
+           family={O'Rourke},
+           family_i={O\bibinitperiod},
+           given={Kevin\bibnamedelima H.},
+           given_i={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=28004740e3bc945ca53cbe2710850ed2}{%
+           family={Williamson},
+           family_i={W\bibinitperiod},
+           given={Jeffrey\bibnamedelima G.},
+           given_i={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5aa668fa18384edce9ed3e2cbd803c2}
+      \strng{fullhash}{e5aa668fa18384edce9ed3e2cbd803c2}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Economic History Review}
+      \field{number}{3}
+      \field{title}{Did Vasco da Gama matter for European markets?}
+      \field{volume}{62}
+      \field{year}{2009}
+      \field{pages}{655\bibrangedash 684}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1111/j.1468-0289.2009.00468.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0289.2009.00468.x
+      \endverb
+    \endentry
+    \entry{GLO}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=03aeeff6f6f4ccc44965773b8894db01}{%
+           family={O'Rourke},
+           family_i={O\bibinitperiod},
+           given={Kevin\bibnamedelima H.},
+           given_i={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=28004740e3bc945ca53cbe2710850ed2}{%
+           family={Williamson},
+           family_i={W\bibinitperiod},
+           given={Jeffrey\bibnamedelima G.},
+           given_i={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5aa668fa18384edce9ed3e2cbd803c2}
+      \strng{fullhash}{e5aa668fa18384edce9ed3e2cbd803c2}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Review of Economic History}
+      \field{month}{04}
+      \field{number}{1}
+      \field{title}{When did globalisation begin?}
+      \field{volume}{6}
+      \field{year}{2002}
+      \field{pages}{23\bibrangedash 50}
+      \range{pages}{28}
+      \verb{url}
+      \verb https://ideas.repec.org/a/cup/ereveh/v6y2002i01p23-50_00.html
+      \endverb
+    \endentry
     \entry{Indonesia}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a85991f6d13a319b9b0c712dc5a75c74}{%

@@ -2094,6 +2094,8 @@
     <bcf:citekey order="41">MST</bcf:citekey>
     <bcf:citekey order="42">RIS</bcf:citekey>
     <bcf:citekey order="43">SpiceTrade</bcf:citekey>
+    <bcf:citekey order="44">VdG</bcf:citekey>
+    <bcf:citekey order="45">GLO</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>
