@@ -422,6 +422,31 @@
       \verb https://books.google.de/books?id=iZ5TZHXOnYcC
       \endverb
     \endentry
+    \entry{richards}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=34a41e57b4275e2948023b84b94a2d27}{%
+           family={Richards},
+           family_i={R\bibinitperiod},
+           given={John\bibnamedelima F.},
+           given_i={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{34a41e57b4275e2948023b84b94a2d27}
+      \strng{fullhash}{34a41e57b4275e2948023b84b94a2d27}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{The New Cambridge History of India}
+      \field{title}{The Mughal Empire}
+      \field{year}{1993}
+      \verb{doi}
+      \verb 10.1017/CBO9780511584060
+      \endverb
+    \endentry
     \entry{India}{inreference}{}
       \true{moreauthor}
       \name{author}{2}{}{%
