@@ -1,15 +1,15 @@
 [1] Config.pm:340> INFO - This is Biber 2.4
 [2] Config.pm:343> INFO - Logfile is 'Facharbeit.blg'
-[153] biber:287> INFO - === So Feb 23, 2020, 21:22:47
-[464] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
-[970] Biber.pm:742> INFO - Found 25 citekeys in bib section 0
-[992] Biber.pm:3151> INFO - Processing section 0
-[1101] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
-[1201] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[1288] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
-[3028] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3029] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3029] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
-[3029] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[3213] bbl.pm:519> INFO - Writing 'Facharbeit.bbl' with encoding 'UTF-8'
-[3430] bbl.pm:615> INFO - Output to Facharbeit.bbl
+[166] biber:287> INFO - === So Feb 23, 2020, 23:00:06
+[497] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
+[1128] Biber.pm:742> INFO - Found 28 citekeys in bib section 0
+[1149] Biber.pm:3151> INFO - Processing section 0
+[1273] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
+[1405] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1525] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
+[3957] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3957] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3958] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[3958] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[4211] bbl.pm:519> INFO - Writing 'Facharbeit.bbl' with encoding 'UTF-8'
+[4485] bbl.pm:615> INFO - Output to Facharbeit.bbl
