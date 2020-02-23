@@ -109,7 +109,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>singletitle</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortalphaothers</bcf:key>
@@ -2094,8 +2094,13 @@
     <bcf:citekey order="41">MST</bcf:citekey>
     <bcf:citekey order="42">RIS</bcf:citekey>
     <bcf:citekey order="43">SpiceTrade</bcf:citekey>
-    <bcf:citekey order="44">VdG</bcf:citekey>
-    <bcf:citekey order="45">GLO</bcf:citekey>
+    <bcf:citekey order="44">Vasco</bcf:citekey>
+    <bcf:citekey order="45">VdG</bcf:citekey>
+    <bcf:citekey order="46">GLO</bcf:citekey>
+    <bcf:citekey order="47">Vasco</bcf:citekey>
+    <bcf:citekey order="48">1550</bcf:citekey>
+    <bcf:citekey order="49">Vasco</bcf:citekey>
+    <bcf:citekey order="50">1550</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nty/global" type="entry" sortscheme="nty" sortnamekeyscheme="global">
   <bcf:sorting>

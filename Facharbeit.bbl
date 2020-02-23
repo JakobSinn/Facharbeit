@@ -22,6 +22,7 @@
     \entry{Abbasid}{inreference}{}
       \field{sortinit}{A}
       \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Abbāsid caliphate}
@@ -42,6 +43,7 @@
       \strng{fullhash}{c64a75b00269fd8971d9ccf871075913}
       \field{sortinit}{A}
       \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
@@ -57,6 +59,7 @@
       }
       \field{sortinit}{A}
       \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{title}{Alexandria}
       \field{titleaddon}{Silk Roads}
@@ -68,6 +71,7 @@
     \entry{Cinnamon}{inreference}{}
       \field{sortinit}{C}
       \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Cinnamon}
@@ -91,6 +95,7 @@
       \strng{fullhash}{7421df54599298903afa25236884fcf6}
       \field{sortinit}{C}
       \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{Studies in Comparative World History}
@@ -103,12 +108,40 @@
     \entry{Delhi}{inreference}{}
       \field{sortinit}{D}
       \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Delhi Sultanate}
       \field{year}{2020}
       \verb{url}
       \verb https://www.britannica.com/place/Delhi-sultanate
+      \endverb
+    \endentry
+    \entry{Vasco}{inreference}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0d99a09215b01a5c56dda7f7d242a2ff}{%
+           family={Fernandez-Armesto},
+           family_i={F\bibinithyphendelim A\bibinitperiod},
+           given={Felipe},
+           given_i={F\bibinitperiod}}}%
+        {{uniquename=0,hash=8196cb82a305114410c713ee760250ff}{%
+           family={Campbell},
+           family_i={C\bibinitperiod},
+           given={Eila\bibnamedelima M.J.},
+           given_i={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4a2064982d782248414fe76473026b4}
+      \strng{fullhash}{d4a2064982d782248414fe76473026b4}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Vasco da Gama}
+      \field{year}{2019}
+      \verb{url}
+      \verb https://www.britannica.com/biography/Vasco-da-Gama
       \endverb
     \endentry
     \entry{Yale}{online}{}
@@ -166,6 +199,7 @@
       }
       \field{sortinit}{G}
       \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{title}{Gems}
       \verb{url}
@@ -184,6 +218,7 @@
       \strng{fullhash}{599b1d482fd72d718c5cb422c96e23e1}
       \field{sortinit}{G}
       \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ThoughtCo.}
@@ -199,6 +234,7 @@
       }
       \field{sortinit}{H}
       \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{title}{History of {M}adagascar}
       \verb{url}
@@ -220,6 +256,7 @@
       \strng{fullhash}{071eb35d21301dca5f5fdaae59b7caa9}
       \field{sortinit}{L}
       \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A history of Islamic societies}
@@ -243,6 +280,7 @@
       \strng{fullhash}{3903836200a4db4d341d5f900e5d48c4}
       \field{sortinit}{M}
       \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
@@ -251,6 +289,7 @@
     \entry{OcEo}{incollection}{}
       \field{sortinit}{Ó}
       \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{booktitle}{Wikipedia}
       \field{title}{Óc Eo}
@@ -335,6 +374,7 @@
       \strng{fullhash}{a85991f6d13a319b9b0c712dc5a75c74}
       \field{sortinit}{P}
       \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Jakarta Post}
@@ -342,6 +382,44 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html
+      \endverb
+    \endentry
+    \entry{1550}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a939c85c85ab0febdeba4d7f3966bfc0}{%
+           family={Ramusio},
+           family_i={R\bibinitperiod},
+           given={G.B.},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=f9b613778fdbba6b234e9fdbad903ead}{%
+           family={Gastaldi},
+           family_i={G\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+        {{uniquename=0,hash=86340b6682ccc52e234c48ac15d144c2}{%
+           family={Giunta},
+           family_i={G\bibinitperiod},
+           given={L.A.},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Italian}%
+      }
+      \list{publisher}{1}{%
+        {appresso gli heredi di Lucantonio Giunti}%
+      }
+      \strng{namehash}{767caaf70ebd2c939df9798d55e41f36}
+      \strng{fullhash}{767caaf70ebd2c939df9798d55e41f36}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Diapositivas (Biblioteca Histórica UCM)}
+      \field{title}{Primo volume delle nauigationi et viaggi nel qual si contiene la descrittione dell'Africa, et del paese del Prete Ianni, con varii viaggi, dal mar Rosso a Calicut \& infin all'isole Molucche, dove nascono le Spetiere et la navigatione attorno il mondo: li nomi de gli auttori, et le nauigationi, et i viaggi piu particolarmente si mostrano nel foglio seguente}
+      \field{year}{1550}
+      \verb{url}
+      \verb https://books.google.de/books?id=iZ5TZHXOnYcC
       \endverb
     \endentry
     \entry{India}{inreference}{}
@@ -362,6 +440,7 @@
       \strng{fullhash}{965c2ee864847ddb3d8eaa5520d52e44}
       \field{sortinit}{S}
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
@@ -388,6 +467,7 @@
       \strng{fullhash}{095f02492547ec3e5ecc4d1b77958936}
       \field{sortinit}{S}
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
@@ -400,6 +480,7 @@
     \entry{SpiceTrade}{inreference}{}
       \field{sortinit}{S}
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Spice trade}
@@ -414,6 +495,7 @@
       }
       \field{sortinit}{T}
       \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \true{singletitle}
       \field{labeltitlesource}{title}
       \field{title}{The Silk Road and Islam Spread}
       \field{titleaddon}{Exhibition: Islam in Asia}
@@ -441,6 +523,7 @@
       \strng{fullhash}{537179ba613fe0247bcb9183ba5d41e6}
       \field{sortinit}{V}
       \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Ethnopharmacology}
