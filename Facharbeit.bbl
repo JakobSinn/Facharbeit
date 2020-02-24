@@ -26,7 +26,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Abbāsid caliphate}
-      \field{year}{2020}
+      \field{year}{2019}
       \verb{url}
       \verb https://www.britannica.com/topic/Abbasid-caliphate
       \endverb
@@ -97,6 +97,58 @@
       \verb 10.4324/9780203712535
       \endverb
     \endentry
+    \entry{Calico}{inreference}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Calico}
+      \field{year}{2011}
+      \verb{url}
+      \verb https://www.britannica.com/topic/calico-textile
+      \endverb
+    \endentry
+    \entry{FT}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3b49bfd2102cc6ccb77001a43aaaddad}{%
+           family={Chaudhuri},
+           family_i={C\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           given_i={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=117673547ac03c5b3d035776726ee69e}{%
+           family={Raychaudhuri},
+           family_i={R\bibinitperiod},
+           given={Tapan},
+           given_i={T\bibinitperiod}}}%
+        {{hash=19ea885a01766e766c1ff4199e886c8e}{%
+           family={Habib},
+           family_i={H\bibinitperiod},
+           given={Ifran},
+           given_i={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge university press}%
+      }
+      \strng{namehash}{3b49bfd2102cc6ccb77001a43aaaddad}
+      \strng{fullhash}{3b49bfd2102cc6ccb77001a43aaaddad}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Cambridge economic history of India}
+      \field{isbn}{0521226929}
+      \field{part}{Part II: c. 1500--1750}
+      \field{title}{European Trade with India}
+      \field{volume}{1}
+      \field{year}{1982}
+    \endentry
     \entry{Cinnamon}{inreference}{}
       \field{sortinit}{C}
       \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
@@ -104,7 +156,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Encyclopedia Britannica}
       \field{title}{Cinnamon}
-      \field{year}{2020}
+      \field{year}{2019}
       \verb{url}
       \verb https://www.britannica.com/plant/cinnamon
       \endverb
@@ -218,6 +270,47 @@
       \field{month}{11}
       \field{title}{The medieval spice trade}
       \field{year}{2012}
+    \endentry
+    \entry{VOC}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=8906038561b02dcab184757c9a40034d}{%
+           family={Gelderblom},
+           family_i={G\bibinitperiod},
+           given={Oscar},
+           given_i={O\bibinitperiod}}}%
+        {{uniquename=0,hash=e025344cab0daf9f0f087dda9ac69d25}{%
+           prefix={de},
+           prefix_i={d\bibinitperiod},
+           family={Jong},
+           family_i={J\bibinitperiod},
+           given={Abe},
+           given_i={A\bibinitperiod}}}%
+        {{uniquename=0,hash=5d1c0a4f4b20af4adb32d8990c3fc727}{%
+           family={Jonker},
+           family_i={J\bibinitperiod},
+           given={Joost},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{294411c7a09a98d5dae2e46f355469cd}
+      \strng{fullhash}{294411c7a09a98d5dae2e46f355469cd}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{number}{4}
+      \field{title}{The Formative Years of the Modern Corporation: The Dutch East India Company VOC, 1602–1623}
+      \field{volume}{73}
+      \field{year}{2013}
+      \field{pages}{1050\bibrangedash 1076}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1017/S0022050713000879
+      \endverb
     \endentry
     \entry{RG}{misc}{}
       \list{location}{1}{%
@@ -412,6 +505,34 @@
       \verb{url}
       \verb https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html
       \endverb
+    \endentry
+    \entry{EIC}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=f27d40ed6bce7ff3cfb9198d328d0ee7}{%
+           family={Pettigrew},
+           family_i={P\bibinitperiod},
+           given={William\bibnamedelima A.},
+           given_i={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=4bf0b6781c9f157cbbece128c87bb54b}{%
+           family={Gopalan},
+           family_i={G\bibinitperiod},
+           given={Mahesh},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge India}%
+      }
+      \strng{namehash}{027a232c50550932196c4abd364d53f9}
+      \strng{fullhash}{027a232c50550932196c4abd364d53f9}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978138679436}
+      \field{subtitle}{Essays on Anglo-Indian connection}
+      \field{title}{The East India Company, 1600-1857}
+      \field{year}{2017}
     \endentry
     \entry{1550}{book}{}
       \name{author}{3}{}{%
