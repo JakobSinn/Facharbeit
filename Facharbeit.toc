@@ -54,9 +54,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.1}Venice}{5}{subsubsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}From the discovery of a seaway to India to colonization}{5}{section.4}
+\contentsline {section}{\numberline {4}From the discovery of a seaway to India to trading companies}{5}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Portuguese expeditions and colonies}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.1}Portuguese expeditions and colonies}{6}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.1.1}The first voyage}{6}{subsubsection.4.1.1}
 \defcounter {refsection}{0}\relax 
@@ -74,14 +74,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.4}Decline}{7}{subsubsection.4.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}The East India Company}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.3}The East India Company}{8}{subsection.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Founding}{8}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.3.1}Founding}{8}{subsubsection.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.4.1}First posts in India}{8}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.3.2}First posts in India}{8}{subsubsection.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.4.2}Trade with India}{8}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Trade with India}{8}{subsubsection.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Analysis}{9}{section.5}
+\contentsline {subsubsection}{\numberline {4.3.4}Competitors}{9}{subsubsection.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Conclusion}{9}{section.6}
+\contentsline {section}{\numberline {5}India as a colony}{9}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Motives and opportunities for colonization}{9}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}British military conquests}{9}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1}Bengal}{9}{subsubsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2}Other Indian rulers}{9}{subsubsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3}Serious challenges}{10}{subsubsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Tea}{10}{subsection.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Analysis}{10}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}

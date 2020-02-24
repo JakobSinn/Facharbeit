@@ -68,6 +68,27 @@
       \verb https://en.unesco.org/silkroad/content/alexandria
       \endverb
     \endentry
+    \entry{dutch}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=72bea699c24543cbbe4be176247503b9}{%
+           family={Anthonisz},
+           family_i={A\bibinitperiod},
+           given={Richard\bibnamedelima Gerald},
+           given_i={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Asian Educational Services}%
+      }
+      \strng{namehash}{72bea699c24543cbbe4be176247503b9}
+      \strng{fullhash}{72bea699c24543cbbe4be176247503b9}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Dutch in Ceylon: an account of their early visits to the island, their conquests, and their rule over the maritime regions during a century and a half}
+      \field{year}{2003}
+    \endentry
     \entry{bose}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=89e5e7827d26006c9e180b2c790f1033}{%
@@ -408,6 +429,69 @@
       \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
       \field{year}{1969}
     \endentry
+    \entry{Tea}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8c90ef940409ea2674874b943e0c460b}{%
+           family={Moxham},
+           family_i={M\bibinitperiod},
+           given={Roy},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Constable London}%
+      }
+      \strng{namehash}{8c90ef940409ea2674874b943e0c460b}
+      \strng{fullhash}{8c90ef940409ea2674874b943e0c460b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tea: addiction, exploitation and empire}
+      \field{year}{2003}
+    \endentry
+    \entry{RF}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=667584b4e96ebc52e7fbc971f1b63f8a}{%
+           family={Mukherjee},
+           family_i={M\bibinitperiod},
+           given={Ramkrishna},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Popular Prakashan}%
+      }
+      \strng{namehash}{667584b4e96ebc52e7fbc971f1b63f8a}
+      \strng{fullhash}{667584b4e96ebc52e7fbc971f1b63f8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The rise and fall of the East India Comapny}
+      \field{year}{1958}
+    \endentry
+    \entry{battles}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c0bdf778313a9d6dfbf4988cd2cef914}{%
+           family={Naravane},
+           family_i={N\bibinitperiod},
+           given={Mukund\bibnamedelima S},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APH Publishing}%
+      }
+      \strng{namehash}{c0bdf778313a9d6dfbf4988cd2cef914}
+      \strng{fullhash}{c0bdf778313a9d6dfbf4988cd2cef914}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Battles of the honourable East India Company: making of the Raj}
+      \field{year}{2006}
+    \endentry
     \entry{OcEo}{incollection}{}
       \field{sortinit}{Ó}
       \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
@@ -534,6 +618,40 @@
       \field{title}{The East India Company, 1600-1857}
       \field{year}{2017}
     \endentry
+    \entry{Opium}{inreference}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c93db4d329e1e2de5400237a4b2793bf}{%
+           family={Pletcher},
+           family_i={P\bibinitperiod},
+           given={Kenneth},
+           given_i={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c93db4d329e1e2de5400237a4b2793bf}
+      \strng{fullhash}{c93db4d329e1e2de5400237a4b2793bf}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Opium Wars}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/topic/Opium-Wars
+      \endverb
+    \endentry
+    \entry{PortugueseIndia}{inreference}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Portuguese India}
+      \field{year}{2018}
+      \verb{url}
+      \verb https://www.britannica.com/place/Portuguese-India
+      \endverb
+    \endentry
     \entry{1550}{book}{}
       \name{author}{3}{}{%
         {{uniquename=0,hash=a939c85c85ab0febdeba4d7f3966bfc0}{%
@@ -655,6 +773,31 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1080/03068374.2012.642512
+      \endverb
+    \endentry
+    \entry{roy}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=342b0edb155ea94b53364bb031ee23a2}{%
+           family={Roy},
+           family_i={R\bibinitperiod},
+           given={Suparna},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{342b0edb155ea94b53364bb031ee23a2}
+      \strng{fullhash}{342b0edb155ea94b53364bb031ee23a2}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Social Science and Humanity}
+      \field{title}{Historical review of growth of tea industries in India: A study of Assam Tea}
+      \field{volume}{1}
+      \field{year}{2011}
+      \field{pages}{116\bibrangedash 170}
+      \range{pages}{55}
+      \verb{url}
+      \verb https://pdfs.semanticscholar.org/ebf1/a4533da292651acb4e7311b2f3b4b512e5f0.pdf
       \endverb
     \endentry
     \entry{India}{inreference}{}
