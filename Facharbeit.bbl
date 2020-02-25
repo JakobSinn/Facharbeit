@@ -600,6 +600,20 @@
       \verb https://ideas.repec.org/a/cup/ereveh/v6y2002i01p23-50_00.html
       \endverb
     \endentry
+    \entry{partition}{online}{}
+      \list{organization}{1}{%
+        {Hindustan Times}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{Partition at 70: The numbers that divided India and Pakistan}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.hindustantimes.com/india-news/partition-at-70-the-numbers-that-divided-india-and-pakistan/story-KvuFkeJlqNBky3JT5ZaZuK.html
+      \endverb
+    \endentry
     \entry{Indonesia}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a85991f6d13a319b9b0c712dc5a75c74}{%
@@ -649,6 +663,30 @@
       \field{subtitle}{Essays on Anglo-Indian connection}
       \field{title}{The East India Company, 1600-1857}
       \field{year}{2017}
+    \endentry
+    \entry{td}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e6efb8273b4d057c3fc7ea23fcdb1777}{%
+           family={Pillalamarri},
+           family_i={P\bibinitperiod},
+           given={Akhilesh},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The Diplomat}%
+      }
+      \strng{namehash}{e6efb8273b4d057c3fc7ea23fcdb1777}
+      \strng{fullhash}{e6efb8273b4d057c3fc7ea23fcdb1777}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The British Raj’s Social and Institutional Impact on Indian Society}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://thediplomat.com/2017/08/the-british-rajs-social-and-institutional-impact-on-indian-society/
+      \endverb
     \endentry
     \entry{Opium}{inreference}{}
       \name{author}{1}{}{%

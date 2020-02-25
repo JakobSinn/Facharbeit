@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  25 FEB 2020 21:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.11.26)  25 FEB 2020 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -972,8 +972,8 @@ Package biblatex Warning: Package option 'sortcites' enabled.
 Package biblatex Warning: Package option 'sortcites' enabled.
 (biblatex)                Verify postnote placement on input line 263.
 
-[11] [12]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 287.
+[11] [12] [13]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 317.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -983,7 +983,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (32.50539pt too wide) in paragraph at lines 288--288
+Overfull \hbox (32.50539pt too wide) in paragraph at lines 318--318
 \T1/cmr/m/n/10.95 (-20) ment. \T1/cmr/m/sc/10.95 (-20) url\T1/cmr/m/n/10.95 (-2
 0) : []$\T1/cmtt/m/n/10.95 https : / / www . parliament . uk / about / living -
 [] heritage / evolutionofparliament /
@@ -993,11 +993,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.288 
+l.318 
        [1
 
 ]
-Overfull \hbox (4.88374pt too wide) in paragraph at lines 288--288
+Overfull \hbox (4.88374pt too wide) in paragraph at lines 318--318
 [][]\T1/cmr/m/it/10.95 (-20) Gems\T1/cmr/m/n/10.95 (-20) . Ithaca, New York: Co
 r-nell Uni-ver-sity, An-tiq-ui-ties Li-brary. \T1/cmr/m/sc/10.95 (-20) url\T1/c
 mr/m/n/10.95 (-20) : []$\T1/cmtt/m/n/10.95 https : / / antiquities .
@@ -1007,26 +1007,26 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.II}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.288 
-       [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
+l.318 
+       [2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
  (./Facharbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
 Package rerunfilecheck Info: File `Facharbeit.out' has not changed.
-(rerunfilecheck)             Checksum: DD8705181F81EB8CF597AA7C8EAA2E2D;4140.
+(rerunfilecheck)             Checksum: D60AE8FB6141F24524E71ABE5BC22EF5;4718.
 Package logreq Info: Writing requests to 'Facharbeit.run.xml'.
 \openout1 = `Facharbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14365 strings out of 493029
- 240127 string characters out of 6136233
- 744078 words of memory out of 5000000
- 17394 multiletter control sequences out of 15000+600000
- 24392 words of font info for 119 fonts, out of 8000000 for 9000
+ 14399 strings out of 493029
+ 240665 string characters out of 6136233
+ 745119 words of memory out of 5000000
+ 17410 multiletter control sequences out of 15000+600000
+ 24513 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,8n,63p,816b,1444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
@@ -1041,10 +1041,10 @@ super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb><
 /usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fon
 ts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sftt1095.pfb>
-Output written on Facharbeit.pdf (18 pages, 389092 bytes).
+Output written on Facharbeit.pdf (20 pages, 397495 bytes).
 PDF statistics:
- 893 PDF objects out of 1000 (max. 8388607)
- 850 compressed objects within 9 object streams
- 221 named destinations out of 1000 (max. 500000)
- 24001 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 964 PDF objects out of 1000 (max. 8388607)
+ 918 compressed objects within 10 object streams
+ 237 named destinations out of 1000 (max. 500000)
+ 24065 words of extra memory for PDF output out of 24883 (max. 10000000)
 
