@@ -219,6 +219,56 @@
       \verb https://www.britannica.com/place/Delhi-sultanate
       \endverb
     \endentry
+    \entry{parliament}{online}{}
+      \list{organization}{1}{%
+        {UK Parliament}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{East India Company and Raj 1785-1858}
+      \field{titleaddon}{Living Heritage: Parliament and Empire}
+      \verb{url}
+      \verb https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/
+      \endverb
+    \endentry
+    \entry{Tea}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3fd0352326751690957cad0ae062ad64}{%
+           family={Ellis},
+           family_i={E\bibinitperiod},
+           given={Markman},
+           given_i={M\bibinitperiod}}}%
+        {{uniquename=0,hash=7a986de951e6f7cca63a0a48ddd60390}{%
+           family={Coulton},
+           family_i={C\bibinitperiod},
+           given={Richard},
+           given_i={R\bibinitperiod}}}%
+        {{uniquename=0,hash=73d76028e73efac2ba933be0c5d79034}{%
+           family={Mauger},
+           family_i={M\bibinitperiod},
+           given={Matthew},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Reaktion Books}%
+      }
+      \strng{namehash}{46e7e102bfabe60079750a47d68545fd}
+      \strng{fullhash}{46e7e102bfabe60079750a47d68545fd}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781780234403}
+      \field{subtitle}{The Asian Leaf that Conquered the World}
+      \field{title}{Empire of Tea}
+      \field{year}{2015}
+    \endentry
     \entry{Vasco}{inreference}{}
       \name{author}{2}{}{%
         {{uniquename=0,hash=0d99a09215b01a5c56dda7f7d242a2ff}{%
@@ -429,27 +479,6 @@
       \field{title}{The spice trade of the {R}oman {E}mpire, 29 {BC} To {AD} 641}
       \field{year}{1969}
     \endentry
-    \entry{Tea}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=8c90ef940409ea2674874b943e0c460b}{%
-           family={Moxham},
-           family_i={M\bibinitperiod},
-           given={Roy},
-           given_i={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Constable London}%
-      }
-      \strng{namehash}{8c90ef940409ea2674874b943e0c460b}
-      \strng{fullhash}{8c90ef940409ea2674874b943e0c460b}
-      \field{sortinit}{M}
-      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Tea: addiction, exploitation and empire}
-      \field{year}{2003}
-    \endentry
     \entry{RF}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=667584b4e96ebc52e7fbc971f1b63f8a}{%
@@ -478,6 +507,9 @@
            family_i={N\bibinitperiod},
            given={Mukund\bibnamedelima S},
            given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
       }
       \list{publisher}{1}{%
         {APH Publishing}%
@@ -796,9 +828,6 @@
       \field{year}{2011}
       \field{pages}{116\bibrangedash 170}
       \range{pages}{55}
-      \verb{url}
-      \verb https://pdfs.semanticscholar.org/ebf1/a4533da292651acb4e7311b2f3b4b512e5f0.pdf
-      \endverb
     \endentry
     \entry{India}{inreference}{}
       \true{moreauthor}
