@@ -421,6 +421,28 @@
       \verb https://www.thoughtco.com/parthians-intermediaries-china-rome-silk-trade-117682
       \endverb
     \endentry
+    \entry{guha}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a45e705fa8649deeafa29130b715a43e}{%
+           family={Guha},
+           family_i={G\bibinitperiod},
+           given={Ramachandra},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pan Macmillan}%
+      }
+      \strng{namehash}{a45e705fa8649deeafa29130b715a43e}
+      \strng{fullhash}{a45e705fa8649deeafa29130b715a43e}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780060958589}
+      \field{title}{India after Gandhi: The history of the world's largest democracy}
+      \field{year}{2017}
+    \endentry
     \entry{Madagascar}{misc}{}
       \list{location}{1}{%
         {Franklin, Tennesse}%
@@ -432,6 +454,32 @@
       \field{title}{History of {M}adagascar}
       \verb{url}
       \verb https://www.lonelyplanet.com/madagascar/history
+      \endverb
+    \endentry
+    \entry{ms}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cf00fb39584b5a49607c52d17e01c867}{%
+           family={Kaushik},
+           family_i={K\bibinitperiod},
+           given={Dr},
+           given_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf00fb39584b5a49607c52d17e01c867}
+      \strng{fullhash}{cf00fb39584b5a49607c52d17e01c867}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Military History}
+      \field{month}{07}
+      \field{title}{Military Synthesis in South Asia: Armies, Warfare and Indian Society, c. 1740-1849}
+      \field{volume}{69}
+      \field{year}{2005}
+      \field{pages}{651\bibrangedash 690}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1353/jmh.2005.0187
       \endverb
     \endentry
     \entry{Lapidus}{book}{}
@@ -499,30 +547,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The rise and fall of the East India Comapny}
       \field{year}{1958}
-    \endentry
-    \entry{battles}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=c0bdf778313a9d6dfbf4988cd2cef914}{%
-           family={Naravane},
-           family_i={N\bibinitperiod},
-           given={Mukund\bibnamedelima S},
-           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New Delhi}%
-      }
-      \list{publisher}{1}{%
-        {APH Publishing}%
-      }
-      \strng{namehash}{c0bdf778313a9d6dfbf4988cd2cef914}
-      \strng{fullhash}{c0bdf778313a9d6dfbf4988cd2cef914}
-      \field{sortinit}{N}
-      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Battles of the honourable East India Company: making of the Raj}
-      \field{year}{2006}
     \endentry
     \entry{OcEo}{incollection}{}
       \field{sortinit}{Ó}
@@ -867,6 +891,30 @@
       \field{pages}{116\bibrangedash 170}
       \range{pages}{55}
     \endentry
+    \entry{cricket}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9666dffe543423e99122751fa98ca8f4}{%
+           family={Samiuddin},
+           family_i={S\bibinitperiod},
+           given={Osman},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ESPNcricinfo}%
+      }
+      \strng{namehash}{9666dffe543423e99122751fa98ca8f4}
+      \strng{fullhash}{9666dffe543423e99122751fa98ca8f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ICC survey reveals over a billion fans - 90% in subcontinent}
+      \field{year}{2018}
+      \verb{url}
+      \verb https://www.espncricinfo.com/story/_/id/23920270/icc-survey-reveals-billion-fans-90-subcontinent
+      \endverb
+    \endentry
     \entry{India}{inreference}{}
       \true{moreauthor}
       \name{author}{2}{}{%
@@ -893,6 +941,54 @@
       \field{year}{2020}
       \verb{url}
       \verb https://www.britannica.com/place/India
+      \endverb
+    \endentry
+    \entry{tnr}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=18688d43042a810cb6ae6bb19c167f1b}{%
+           family={Sen},
+           family_i={S\bibinitperiod},
+           given={Amartya},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The new Republic}%
+      }
+      \strng{namehash}{18688d43042a810cb6ae6bb19c167f1b}
+      \strng{fullhash}{18688d43042a810cb6ae6bb19c167f1b}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Imperial Illusions}
+      \field{year}{2007}
+      \verb{url}
+      \verb https://newrepublic.com/article/61784/imperial-illusions
+      \endverb
+    \endentry
+    \entry{bbc}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=db2f24ad08c7950660c1c20487cfcad8}{%
+           family={Sheringham},
+           family_i={S\bibinitperiod},
+           given={Sam},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {BBC}%
+      }
+      \strng{namehash}{db2f24ad08c7950660c1c20487cfcad8}
+      \strng{fullhash}{db2f24ad08c7950660c1c20487cfcad8}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{India power past Sri Lanka to Cricket World Cup triumph}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://news.bbc.co.uk/sport2/hi/cricket/9444277.stm
       \endverb
     \endentry
     \entry{Muhammad}{inreference}{}
