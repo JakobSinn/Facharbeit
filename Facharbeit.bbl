@@ -182,6 +182,20 @@
       \verb https://www.britannica.com/plant/cinnamon
       \endverb
     \endentry
+    \entry{english}{online}{}
+      \list{organization}{1}{%
+        {The Economic Times}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{Court language is English, says Supreme Court}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://economictimes.indiatimes.com/news/politics-and-nation/court-language-is-english-says-supreme-court/articleshow/50080870.cms
+      \endverb
+    \endentry
     \entry{curtin_1984}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=7421df54599298903afa25236884fcf6}{%
@@ -458,14 +472,14 @@
     \endentry
     \entry{ms}{article}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=cf00fb39584b5a49607c52d17e01c867}{%
+        {{uniquename=0,hash=6e31ad6453859317432b4f083340c680}{%
            family={Kaushik},
            family_i={K\bibinitperiod},
-           given={Dr},
-           given_i={D\bibinitperiod}}}%
+           given={Dr\bibnamedelima Roy},
+           given_i={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
-      \strng{namehash}{cf00fb39584b5a49607c52d17e01c867}
-      \strng{fullhash}{cf00fb39584b5a49607c52d17e01c867}
+      \strng{namehash}{6e31ad6453859317432b4f083340c680}
+      \strng{fullhash}{6e31ad6453859317432b4f083340c680}
       \field{sortinit}{K}
       \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
       \true{singletitle}
@@ -746,6 +760,36 @@
       \verb https://www.britannica.com/place/Portuguese-India
       \endverb
     \endentry
+    \entry{rajan}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=529f9a4724838ee80e58d279d9a8f45c}{%
+           family={Rajan},
+           family_i={R\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications, Ltd.}%
+      }
+      \strng{namehash}{529f9a4724838ee80e58d279d9a8f45c}
+      \strng{fullhash}{529f9a4724838ee80e58d279d9a8f45c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00220094}
+      \field{journaltitle}{Journal of Contemporary History}
+      \field{number}{1}
+      \field{title}{The Impact of British Rule in India}
+      \field{volume}{4}
+      \field{year}{1969}
+      \field{pages}{89\bibrangedash 102}
+      \range{pages}{14}
+      \verb{url}
+      \verb http://www.jstor.org/stable/259793
+      \endverb
+    \endentry
     \entry{1550}{book}{}
       \name{author}{3}{}{%
         {{uniquename=0,hash=a939c85c85ab0febdeba4d7f3966bfc0}{%
@@ -909,7 +953,7 @@
       \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ICC survey reveals over a billion fans - 90% in subcontinent}
+      \field{title}{ICC survey reveals over a billion fans - 90\% in subcontinent}
       \field{year}{2018}
       \verb{url}
       \verb https://www.espncricinfo.com/story/_/id/23920270/icc-survey-reveals-billion-fans-90-subcontinent

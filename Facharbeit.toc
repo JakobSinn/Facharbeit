@@ -104,7 +104,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {5.3.2}Pitt's India Act 1784}{11}{subsubsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}Changes in India's economy}{11}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.4}Changes in India's economy and culture}{11}{subsection.5.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.5}Tea}{12}{subsection.5.5}
 \defcounter {refsection}{0}\relax 
@@ -112,11 +112,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.6}End to the East India company}{12}{subsection.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Answers to the research question}{12}{section.6}
+\contentsline {section}{\numberline {6}Answers to the research question}{13}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Political influences}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.1}Political influences}{13}{subsection.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.1}The Mughal}{12}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.1}The Mughal empire}{13}{subsubsection.6.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {6.1.2}The British}{13}{subsubsection.6.1.2}
 \defcounter {refsection}{0}\relax 
@@ -128,4 +128,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3}Economic Influences}{14}{subsection.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.1}Before colonization}{14}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.1}Profits from trade}{14}{subsubsection.6.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.3.2}Deindustrialisation of India}{14}{subsubsection.6.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.3.3}Cash crops: introduction of tea and opium}{14}{subsubsection.6.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Conclusion and applications}{14}{section.7}

@@ -1,17 +1,17 @@
 [1] Config.pm:340> INFO - This is Biber 2.4
 [2] Config.pm:343> INFO - Logfile is 'Facharbeit.blg'
-[180] biber:287> INFO - === Mi Feb 26, 2020, 19:22:56
-[506] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
-[1033] Biber.pm:742> INFO - Found 46 citekeys in bib section 0
-[1054] Biber.pm:3151> INFO - Processing section 0
-[1164] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
-[1354] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[1522] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
-[2395] Utils.pm:147> WARN - ISBN '978138679436' in entry 'EIC' is invalid - run biber with '--validate_datamodel' for details.
-[4569] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4569] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4569] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
-[4570] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[4919] bbl.pm:519> INFO - Writing 'Facharbeit.bbl' with encoding 'UTF-8'
-[5315] bbl.pm:615> INFO - Output to Facharbeit.bbl
-[5316] Biber.pm:109> INFO - WARNINGS: 1
+[151] biber:287> INFO - === Mi Feb 26, 2020, 22:21:24
+[476] Biber.pm:348> INFO - Reading 'Facharbeit.bcf'
+[1087] Biber.pm:742> INFO - Found 48 citekeys in bib section 0
+[1115] Biber.pm:3151> INFO - Processing section 0
+[1226] Biber.pm:3308> INFO - Looking for bibtex format file 'Facharbeit.bib' for section 0
+[1455] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[1635] bibtex.pm:974> INFO - Found BibTeX data source 'Facharbeit.bib'
+[2434] Utils.pm:147> WARN - ISBN '978138679436' in entry 'EIC' is invalid - run biber with '--validate_datamodel' for details.
+[4735] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4735] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4736] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[4736] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[5095] bbl.pm:519> INFO - Writing 'Facharbeit.bbl' with encoding 'UTF-8'
+[5512] bbl.pm:615> INFO - Output to Facharbeit.bbl
+[5513] Biber.pm:109> INFO - WARNINGS: 1
