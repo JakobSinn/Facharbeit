@@ -8,83 +8,81 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3}Methodology}{1}{subsection.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Trade up to the age of Islam}{1}{section.2}
+\contentsline {section}{\numberline {2}Trade in Antiquity}{1}{section.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Traded goods}{1}{subsection.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}Spice}{2}{subsubsection.2.1.1}
+\contentsline {paragraph}{\nonumberline Spice}{2}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2}Precious stones}{2}{subsubsection.2.1.2}
+\contentsline {paragraph}{\nonumberline Tea}{2}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.3}Silk}{2}{subsubsection.2.1.3}
+\contentsline {paragraph}{\nonumberline Silk}{2}{section*.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Trade routes}{2}{subsection.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}To India from Indonesia}{2}{subsubsection.2.2.1}
+\contentsline {paragraph}{\nonumberline To India from Indonesia}{2}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}From China}{3}{subsubsection.2.2.2}
+\contentsline {paragraph}{\nonumberline From China}{2}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.3}India, a centre of trade}{3}{subsubsection.2.2.3}
+\contentsline {paragraph}{\nonumberline India, a centre of trade}{3}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.4}From India to Europe}{3}{subsubsection.2.2.4}
+\contentsline {paragraph}{\nonumberline From India to Europe}{3}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.5}Development under the Romans}{3}{subsubsection.2.2.5}
+\contentsline {paragraph}{\nonumberline Development under the Romans}{3}{section*.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Networks of Trade in the Middle Ages}{4}{section.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Changes in Arabia and the middle east}{4}{subsection.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Beginnings of the Arabic empire}{4}{subsubsection.3.1.1}
+\contentsline {paragraph}{\nonumberline Beginnings of the Arabic empire}{4}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}The Abbasid caliphate}{4}{subsubsection.3.1.2}
+\contentsline {paragraph}{\nonumberline The Abbasid caliphate}{4}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.3}Cultural influences on trade}{4}{subsubsection.3.1.3}
+\contentsline {paragraph}{\nonumberline Cultural influences on trade}{4}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.4}Changing trade routes}{5}{subsubsection.3.1.4}
+\contentsline {paragraph}{\nonumberline Changing trade routes}{4}{section*.13}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}India}{5}{subsection.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Political structure during the Middle Ages}{5}{subsubsection.3.2.1}
+\contentsline {paragraph}{\nonumberline Political structure during the Middle Ages}{5}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Cultural transfers from the west}{5}{subsubsection.3.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Spice production}{5}{subsubsection.3.2.3}
+\contentsline {paragraph}{\nonumberline Cultural transfers from the west}{5}{section*.15}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}Europe}{5}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Venice}{6}{subsubsection.3.3.1}
+\contentsline {paragraph}{\nonumberline Venice}{5}{section*.16}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}From the discovery of a seaway to India to trading companies}{6}{section.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1}Portuguese expeditions and colonies}{6}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.1}The first voyage}{6}{subsubsection.4.1.1}
+\contentsline {paragraph}{\nonumberline The first voyage}{6}{section*.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.2}The second voyage}{6}{subsubsection.4.1.2}
+\contentsline {paragraph}{\nonumberline The second voyage}{6}{section*.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.3}The \textit {Estado da India}}{7}{subsubsection.4.1.3}
+\contentsline {paragraph}{\nonumberline The \textit {Estado da India}}{7}{section*.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.1.4}Effects in Europe}{7}{subsubsection.4.1.4}
+\contentsline {paragraph}{\nonumberline Effects in Europe}{7}{section*.20}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}The Mughal empire}{7}{subsection.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.1}Early history}{7}{subsubsection.4.2.1}
+\contentsline {paragraph}{\nonumberline Early history}{7}{section*.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2}Expansion and begin of decline}{8}{subsubsection.4.2.2}
+\contentsline {paragraph}{\nonumberline Expansion and begin of decline}{7}{section*.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3}Aurangzeb}{8}{subsubsection.4.2.3}
+\contentsline {paragraph}{\nonumberline Aurangzeb}{8}{section*.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4}Decline}{8}{subsubsection.4.2.4}
+\contentsline {paragraph}{\nonumberline Decline}{8}{section*.24}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}The East India Company}{8}{subsection.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.1}Founding}{8}{subsubsection.4.3.1}
+\contentsline {paragraph}{\nonumberline Founding}{8}{section*.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.2}First posts in India}{9}{subsubsection.4.3.2}
+\contentsline {paragraph}{\nonumberline First posts in India}{9}{section*.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.3}Trade with India}{9}{subsubsection.4.3.3}
+\contentsline {paragraph}{\nonumberline Trade with India}{9}{section*.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.3.4}Competitors}{9}{subsubsection.4.3.4}
+\contentsline {paragraph}{\nonumberline Competitors}{9}{section*.28}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}India as a colony}{10}{section.5}
 \defcounter {refsection}{0}\relax 
@@ -92,46 +90,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2}British military conquests}{10}{subsection.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.1}Bengal}{10}{subsubsection.5.2.1}
+\contentsline {paragraph}{\nonumberline Bengal}{10}{section*.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.2}Other Indian rulers}{10}{subsubsection.5.2.2}
+\contentsline {paragraph}{\nonumberline Other Indian rulers}{10}{section*.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.3}Serious challenges}{11}{subsubsection.5.2.3}
+\contentsline {paragraph}{\nonumberline Serious challenges}{10}{section*.31}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3}Increasing government oversight}{11}{subsection.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.1}Regulating Act}{11}{subsubsection.5.3.1}
+\contentsline {paragraph}{\nonumberline Regulating Act}{11}{section*.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.3.2}Pitt's India Act 1784}{11}{subsubsection.5.3.2}
+\contentsline {paragraph}{\nonumberline Pitt's India Act 1784}{11}{section*.33}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.4}Changes in India's economy and culture}{11}{subsection.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5}Tea}{12}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.5}Introduction of tea}{12}{subsection.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.5.1}Assam Tea}{12}{subsubsection.5.5.1}
+\contentsline {paragraph}{\nonumberline Assam Tea}{12}{section*.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6}End to the East India company}{12}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.6}Begin of direct rule}{12}{subsection.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Answers to the research question}{13}{section.6}
+\contentsline {section}{\numberline {6}Answers to the research question}{12}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Political influences}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.1}Political influences}{12}{subsection.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.1}The Mughal empire}{13}{subsubsection.6.1.1}
+\contentsline {paragraph}{\nonumberline The Mughal empire}{12}{section*.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.1.2}The British}{13}{subsubsection.6.1.2}
+\contentsline {paragraph}{\nonumberline The British}{13}{section*.36}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.2}Cultural influences}{13}{subsection.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.1}Islam}{13}{subsubsection.6.2.1}
+\contentsline {paragraph}{\nonumberline Islam}{13}{section*.37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2}European influences}{13}{subsubsection.6.2.2}
+\contentsline {paragraph}{\nonumberline European influences}{13}{section*.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Economic Influences}{14}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.3}Economic Influences}{13}{subsection.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.1}Profits from trade}{14}{subsubsection.6.3.1}
+\contentsline {paragraph}{\nonumberline Profits from trade}{13}{section*.39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.2}Deindustrialisation of India}{14}{subsubsection.6.3.2}
+\contentsline {paragraph}{\nonumberline Deindustrialisation of India}{14}{section*.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.3.3}Cash crops: introduction of tea and opium}{14}{subsubsection.6.3.3}
+\contentsline {paragraph}{\nonumberline Cash crops: introduction of tea and opium}{14}{section*.41}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7}Conclusion and applications}{14}{section.7}

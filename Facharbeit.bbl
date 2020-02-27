@@ -170,6 +170,30 @@
       \field{volume}{1}
       \field{year}{1982}
     \endentry
+    \entry{npr}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac707df120b27e81a2b2d09b8cb044b1}{%
+           family={Cherfas},
+           family_i={C\bibinitperiod},
+           given={Jeremy},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NPR}%
+      }
+      \strng{namehash}{ac707df120b27e81a2b2d09b8cb044b1}
+      \strng{fullhash}{ac707df120b27e81a2b2d09b8cb044b1}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{World's Oldest Tea Discovered In An Ancient Chinese Emperor's Tomb}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.npr.org/sections/thesalt/2016/01/26/464437173/worlds-oldest-tea-discovered-in-an-ancient-chinese-emperors-tomb?t=1582832815295
+      \endverb
+    \endentry
     \entry{Cinnamon}{inreference}{}
       \field{sortinit}{C}
       \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
@@ -231,6 +255,32 @@
       \field{year}{2020}
       \verb{url}
       \verb https://www.britannica.com/place/Delhi-sultanate
+      \endverb
+    \endentry
+    \entry{medicine}{online}{}
+      \list{organization}{1}{%
+        {UNESCO}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{Did You Know?: Silk Roads Exchange and the Development of the Medical Sciences}
+      \verb{url}
+      \verb https://en.unesco.org/silkroad/content/did-you-know-silk-roads-exchange-and-development-medical-sciences
+      \endverb
+    \endentry
+    \entry{srilanka}{online}{}
+      \list{organization}{1}{%
+        {UNESCO}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{Did You Know?: Sri Lankan Harbour Cities and the Maritime Silk Roads}
+      \verb{url}
+      \verb https://en.unesco.org/silkroad/content/did-you-know-sri-lankan-harbour-cities-and-maritime-silk-roads
       \endverb
     \endentry
     \entry{parliament}{online}{}
@@ -397,22 +447,6 @@
       \verb 10.1017/S0022050713000879
       \endverb
     \endentry
-    \entry{RG}{misc}{}
-      \list{location}{1}{%
-        {Ithaca, New York}%
-      }
-      \list{organization}{1}{%
-        {Cornell~University, Antiquities Library}%
-      }
-      \field{sortinit}{G}
-      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
-      \true{singletitle}
-      \field{labeltitlesource}{title}
-      \field{title}{Gems}
-      \verb{url}
-      \verb https://antiquities.library.cornell.edu/gems
-      \endverb
-    \endentry
     \entry{SilkRome}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=599b1d482fd72d718c5cb422c96e23e1}{%
@@ -562,16 +596,28 @@
       \field{title}{The rise and fall of the East India Comapny}
       \field{year}{1958}
     \endentry
-    \entry{OcEo}{incollection}{}
-      \field{sortinit}{Ó}
-      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+    \entry{OcEo}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=00c76ae84da6f61d625ada03a046f00f}{%
+           family={Murray},
+           family_i={M\bibinitperiod},
+           given={Bennett},
+           given_i={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Phnom Penh Post}%
+      }
+      \strng{namehash}{00c76ae84da6f61d625ada03a046f00f}
+      \strng{fullhash}{00c76ae84da6f61d625ada03a046f00f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
       \true{singletitle}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Wikipedia}
-      \field{title}{Óc Eo}
-      \field{year}{2020}
+      \field{title}{Romans vs Khmers: They came, they saw, they traded... or did they?}
+      \field{year}{2015}
       \verb{url}
-      \verb http://en.wikipedia.org/w/index.php?title=%5C%C3%5C%93c%5C%20Eo&oldid=931898072
+      \verb https://phnompenhpost.com/post-weekend/romans-vs-khmers-they-came-they-saw-they-traded-or-did-they
       \endverb
     \endentry
     \entry{VdG}{article}{}
@@ -672,6 +718,18 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.thejakartapost.com/adv/2017/08/18/spice-trails-indonesian-spice-trade-now-and-then.html
+      \endverb
+    \endentry
+    \entry{kol}{inreference}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia Britannica}
+      \field{title}{Pedro Álvares Cabral}
+      \field{year}{2020}
+      \verb{url}
+      \verb https://www.britannica.com/biography/Pedro-Alvares-Cabral
       \endverb
     \endentry
     \entry{EIC}{book}{}
@@ -788,44 +846,6 @@
       \range{pages}{14}
       \verb{url}
       \verb http://www.jstor.org/stable/259793
-      \endverb
-    \endentry
-    \entry{1550}{book}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=a939c85c85ab0febdeba4d7f3966bfc0}{%
-           family={Ramusio},
-           family_i={R\bibinitperiod},
-           given={G.B.},
-           given_i={G\bibinitperiod}}}%
-        {{uniquename=0,hash=f9b613778fdbba6b234e9fdbad903ead}{%
-           family={Gastaldi},
-           family_i={G\bibinitperiod},
-           given={G.},
-           given_i={G\bibinitperiod}}}%
-        {{uniquename=0,hash=86340b6682ccc52e234c48ac15d144c2}{%
-           family={Giunta},
-           family_i={G\bibinitperiod},
-           given={L.A.},
-           given_i={L\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {Italian}%
-      }
-      \list{publisher}{1}{%
-        {appresso gli heredi di Lucantonio Giunti}%
-      }
-      \strng{namehash}{767caaf70ebd2c939df9798d55e41f36}
-      \strng{fullhash}{767caaf70ebd2c939df9798d55e41f36}
-      \field{sortinit}{R}
-      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
-      \true{singletitle}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{series}{Diapositivas (Biblioteca Histórica UCM)}
-      \field{title}{Primo volume delle nauigationi et viaggi nel qual si contiene la descrittione dell'Africa, et del paese del Prete Ianni, con varii viaggi, dal mar Rosso a Calicut \& infin all'isole Molucche, dove nascono le Spetiere et la navigatione attorno il mondo: li nomi de gli auttori, et le nauigationi, et i viaggi piu particolarmente si mostrano nel foglio seguente}
-      \field{year}{1550}
-      \verb{url}
-      \verb https://books.google.de/books?id=iZ5TZHXOnYcC
       \endverb
     \endentry
     \entry{MughalFinances}{article}{}
@@ -1087,6 +1107,20 @@
       \field{year}{2016}
       \verb{url}
       \verb http://guides.library.cornell.edu/IslamAsiaExhibit/SilkRoadIslam
+      \endverb
+    \endentry
+    \entry{bloomberg}{online}{}
+      \list{organization}{1}{%
+        {Bloomberg}%
+      }
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \true{singletitle}
+      \field{labeltitlesource}{title}
+      \field{title}{Vasco Da Gama Torched a Muslim Pilgrim Ship: Lewis Lapham}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://www.bloomberg.com/news/articles/2012-09-07/vasco-da-gama-torched-a-muslim-pilgrim-ship-lewis-lapham
       \endverb
     \endentry
     \entry{RIS}{article}{}
